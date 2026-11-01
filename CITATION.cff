@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "SBA 7(a) Business Acquisition Loans"
+authors:
+  - name: "SBA Acquisition Data"
+url: "https://sbaacquisitiondata.com"
+repository-code: "https://sbaacquisitiondata.com/datasets"
+license: CC-BY-4.0
+date-released: "2026-09-30"
+type: dataset
