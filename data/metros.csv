@@ -1,0 +1,16 @@
+slug,name,state_code,url,share_of_state,acquisition_loans,total_dollars,median_loan,p25_loan,p75_loan,avg_interest_rate,median_term_months,jobs_supported,seasoned_loans,seasoned_charged_off,charge_off_rate
+houston,Houston,TX,https://sbaacquisitiondata.com/metro/houston,0.2176,888,1285290300,978500,400000,2100000,7.77,120,12864,396,18,0.0455
+dallas-fort-worth,Dallas-Fort Worth,TX,https://sbaacquisitiondata.com/metro/dallas-fort-worth,0.3637,1484,1894790900,798600,350000,1731200,7.84,120,21535,639,38,0.0595
+austin,Austin,TX,https://sbaacquisitiondata.com/metro/austin,0.09,367,444427000,700000,320000,1670000,7.91,120,5400,140,6,0.0429
+san-antonio,San Antonio,TX,https://sbaacquisitiondata.com/metro/san-antonio,0.0407,166,214154900,820500,374100,1667325,7.91,120,2648,63,1,0.0159
+los-angeles,Los Angeles,CA,https://sbaacquisitiondata.com/metro/los-angeles,0.3627,1880,1848398500,527150,250000,1250000,7.88,120,21269,840,49,0.0583
+san-diego,San Diego,CA,https://sbaacquisitiondata.com/metro/san-diego,0.0841,436,466388800,546000,270750,1323975,8.09,120,6175,163,8,0.0491
+san-francisco-bay-area,San Francisco Bay Area,CA,https://sbaacquisitiondata.com/metro/san-francisco-bay-area,0.1424,738,752908400,577500,320700,1274800,7.91,120,10358,311,14,0.045
+phoenix,Phoenix,AZ,https://sbaacquisitiondata.com/metro/phoenix,0.6986,765,909416800,785100,381000,1522200,8.03,120,12319,303,11,0.0363
+chicago,Chicago,IL,https://sbaacquisitiondata.com/metro/chicago,0.656,1167,1362623600,688000,306000,1631900,7.86,120,18338,471,26,0.0552
+atlanta,Atlanta,GA,https://sbaacquisitiondata.com/metro/atlanta,0.4171,740,927504000,710050,341500,1705000,7.65,120,9647,355,13,0.0366
+miami,Miami,FL,https://sbaacquisitiondata.com/metro/miami,0.2299,833,1104068900,833000,400000,1780200,8.29,120,10372,309,23,0.0744
+tampa,Tampa,FL,https://sbaacquisitiondata.com/metro/tampa,0.1609,583,641722400,739100,342750,1380500,8.08,120,8644,265,12,0.0453
+denver,Denver,CO,https://sbaacquisitiondata.com/metro/denver,0.5139,961,1018919500,665000,345000,1390000,7.72,120,11573,394,14,0.0355
+las-vegas,Las Vegas,NV,https://sbaacquisitiondata.com/metro/las-vegas,0.5979,232,250287800,668550,309000,1410000,8.14,120,3865,85,2,0.0235
+new-york-city,New York City,NY,https://sbaacquisitiondata.com/metro/new-york-city,0.183,280,325530600,745000,321750,1500000,7.96,120,3431,132,3,0.0227

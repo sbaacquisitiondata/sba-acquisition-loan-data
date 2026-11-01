@@ -1,0 +1,33 @@
+name,slug,seasoned_loans,charged_off,charge_off_rate,national_rate,larger_sample
+Subway,subway,144,8,0.0556,0.0352,true
+The UPS Store,the-ups-store,125,0,0,0.0352,true
+Quality Inn,quality-inn,87,2,0.023,0.0352,true
+Anytime Fitness,anytime-fitness,76,8,0.1053,0.0352,true
+Motel 6,motel-6,71,0,0,0.0352,true
+Super 8,super-8,66,0,0,0.0352,true
+Red Roof Inn,red-roof-inn,64,0,0,0.0352,true
+Days Inn,days-inn,56,0,0,0.0352,true
+Best Western,best-western,56,0,0,0.0352,true
+Dairy Queen,dairy-queen,54,0,0,0.0352,true
+Home Instead,home-instead,53,0,0,0.0352,true
+Ace Hardware,ace-hardware,51,1,0.0196,0.0352,true
+Smartstyle,smartstyle,46,1,0.0217,0.0352,false
+Servpro,servpro,45,3,0.0667,0.0352,false
+Econo Lodge,econo-lodge,40,0,0,0.0352,false
+La Quinta,la-quinta,39,0,0,0.0352,false
+Comfort Inn,comfort-inn,38,1,0.0263,0.0352,false
+Baymont,baymont,36,1,0.0278,0.0352,false
+Domino's Pizza,dominos-pizza,36,2,0.0556,0.0352,false
+Rodeway Inn,rodeway-inn,35,0,0,0.0352,false
+Firehouse Subs,firehouse-subs,34,0,0,0.0352,false
+The Goddard School,the-goddard-school,33,0,0,0.0352,false
+Supercuts,supercuts,33,0,0,0.0352,false
+Little Caesars,little-caesars,32,0,0,0.0352,false
+Jimmy John's,jimmy-johns,31,0,0,0.0352,false
+Sleep Inn,sleep-inn,30,0,0,0.0352,false
+Big O Tires,big-o-tires,28,1,0.0357,0.0352,false
+FASTSIGNS,fastsigns,28,0,0,0.0352,false
+Primrose Schools,primrose-schools,27,0,0,0.0352,false
+Right at Home,right-at-home,26,0,0,0.0352,false
+Midas,midas,25,0,0,0.0352,false
+Edible Arrangements,edible-arrangements,25,1,0.04,0.0352,false

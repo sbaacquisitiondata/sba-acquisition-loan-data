@@ -1,0 +1,47 @@
+code,name,slug,seasoned_loans,charged_off,charge_off_rate,national_rate
+CA,California,ca,2250,93,0.0413,0.0352
+TX,Texas,tx,1733,83,0.0479,0.0352
+FL,Florida,fl,1487,85,0.0572,0.0352
+WA,Washington,wa,861,29,0.0337,0.0352
+GA,Georgia,ga,814,26,0.0319,0.0352
+MN,Minnesota,mn,803,26,0.0324,0.0352
+MI,Michigan,mi,736,13,0.0177,0.0352
+OH,Ohio,oh,734,14,0.0191,0.0352
+PA,Pennsylvania,pa,729,15,0.0206,0.0352
+IL,Illinois,il,719,32,0.0445,0.0352
+CO,Colorado,co,705,29,0.0411,0.0352
+NY,New York,ny,661,18,0.0272,0.0352
+WI,Wisconsin,wi,641,17,0.0265,0.0352
+NC,North Carolina,nc,632,13,0.0206,0.0352
+IN,Indiana,in,513,16,0.0312,0.0352
+MO,Missouri,mo,477,14,0.0294,0.0352
+NJ,New Jersey,nj,449,9,0.02,0.0352
+AZ,Arizona,az,434,15,0.0346,0.0352
+MA,Massachusetts,ma,409,13,0.0318,0.0352
+VA,Virginia,va,363,13,0.0358,0.0352
+OR,Oregon,or,293,13,0.0444,0.0352
+UT,Utah,ut,269,13,0.0483,0.0352
+SC,South Carolina,sc,267,12,0.0449,0.0352
+MD,Maryland,md,260,14,0.0538,0.0352
+TN,Tennessee,tn,250,7,0.028,0.0352
+KS,Kansas,ks,247,12,0.0486,0.0352
+OK,Oklahoma,ok,244,9,0.0369,0.0352
+IA,Iowa,ia,209,8,0.0383,0.0352
+CT,Connecticut,ct,176,3,0.017,0.0352
+AL,Alabama,al,173,6,0.0347,0.0352
+LA,Louisiana,la,171,11,0.0643,0.0352
+ID,Idaho,id,159,2,0.0126,0.0352
+MS,Mississippi,ms,155,4,0.0258,0.0352
+NV,Nevada,nv,154,3,0.0195,0.0352
+KY,Kentucky,ky,153,3,0.0196,0.0352
+AR,Arkansas,ar,153,7,0.0458,0.0352
+NE,Nebraska,ne,142,5,0.0352,0.0352
+MT,Montana,mt,134,2,0.0149,0.0352
+NH,New Hampshire,nh,129,1,0.0078,0.0352
+NM,New Mexico,nm,82,3,0.0366,0.0352
+ME,Maine,me,76,0,0,0.0352
+SD,South Dakota,sd,76,2,0.0263,0.0352
+RI,Rhode Island,ri,65,2,0.0308,0.0352
+WV,West Virginia,wv,61,2,0.0328,0.0352
+ND,North Dakota,nd,56,0,0,0.0352
+DE,Delaware,de,51,2,0.0392,0.0352

@@ -1,0 +1,76 @@
+naics,name,slug,seasoned_loans,charged_off,charge_off_rate,national_rate
+722511,Full-Service Restaurants,full-service-restaurants-722511,1127,66,0.0586,0.0352
+721110,Hotels and Motels,hotels-except-casino-hotels-and-motels-721110,1127,9,0.008,0.0352
+722513,Limited-Service Restaurants,limited-service-restaurants-722513,1057,56,0.053,0.0352
+445320,"Beer, Wine, and Liquor Retailers",beer-wine-and-liquor-retailers-445320,785,11,0.014,0.0352
+457110,Gasoline Stations with Convenience Stores,gasoline-stations-with-convenience-stores-457110,582,5,0.0086,0.0352
+524210,Insurance Agencies and Brokerages,insurance-agencies-and-brokerages-524210,421,13,0.0309,0.0352
+811111,General Automotive Repair,general-automotive-repair-811111,408,18,0.0441,0.0352
+624410,Child Care Services,child-care-services-624410,383,3,0.0078,0.0352
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",plumbing-heating-and-air-conditioning-contractors-238220,327,8,0.0245,0.0352
+713940,Fitness and Recreational Sports Centers,fitness-and-recreational-sports-centers-713940,317,31,0.0978,0.0352
+561730,Landscaping Services,landscaping-services-561730,292,16,0.0548,0.0352
+621610,Home Health Care Services,home-health-care-services-621610,277,5,0.0181,0.0352
+456110,Pharmacies and Drug Retailers,pharmacies-and-drug-retailers-456110,270,9,0.0333,0.0352
+621210,Offices of Dentists,offices-of-dentists-621210,262,1,0.0038,0.0352
+238990,All Other Specialty Trade Contractors,all-other-specialty-trade-contractors-238990,261,11,0.0421,0.0352
+812112,Beauty Salons,beauty-salons-812112,259,8,0.0309,0.0352
+621310,Offices of Chiropractors,offices-of-chiropractors-621310,249,14,0.0562,0.0352
+445131,Convenience Retailers,convenience-retailers-445131,246,5,0.0203,0.0352
+541211,Offices of Certified Public Accountants,offices-of-certified-public-accountants-541211,241,7,0.029,0.0352
+811192,Car Washes,car-washes-811192,222,2,0.009,0.0352
+623312,Assisted Living Facilities for the Elderly,assisted-living-facilities-for-the-elderly-623312,215,0,0,0.0352
+722515,Snack and Nonalcoholic Beverage Bars,snack-and-nonalcoholic-beverage-bars-722515,204,12,0.0588,0.0352
+445110,Supermarkets and Other Grocery Retailers,supermarkets-and-other-grocery-retailers-except-convenience-retailers-445110,203,8,0.0394,0.0352
+812320,Drycleaning and Laundry Services,drycleaning-and-laundry-services-except-coin-operated-812320,181,15,0.0829,0.0352
+492110,Couriers and Express Delivery Services,couriers-and-express-delivery-services-492110,171,8,0.0468,0.0352
+812210,Funeral Homes and Funeral Services,funeral-homes-and-funeral-services-812210,166,1,0.006,0.0352
+561720,Janitorial Services,janitorial-services-561720,154,4,0.026,0.0352
+238210,Electrical Contractors and Other Wiring Installation Contractors,electrical-contractors-and-other-wiring-installation-contractors-238210,148,6,0.0405,0.0352
+812310,Coin-Operated Laundries and Drycleaners,coin-operated-laundries-and-drycleaners-812310,141,6,0.0426,0.0352
+722410,Drinking Places (Alcoholic Beverages),drinking-places-alcoholic-beverages-722410,140,3,0.0214,0.0352
+484110,"General Freight Trucking, Local",general-freight-trucking-local-484110,138,8,0.058,0.0352
+541990,"All Other Professional, Scientific, and Technical Services",all-other-professional-scientific-and-technical-services-541990,133,2,0.015,0.0352
+811121,"Automotive Body, Paint, and Interior Repair and Maintenance",automotive-body-paint-and-interior-repair-and-maintenance-811121,128,2,0.0156,0.0352
+541940,Veterinary Services,veterinary-services-541940,123,1,0.0081,0.0352
+812990,All Other Personal Services,all-other-personal-services-812990,123,7,0.0569,0.0352
+459999,All Other Miscellaneous Retailers,all-other-miscellaneous-retailers-459999,121,4,0.0331,0.0352
+531130,Lessors of Miniwarehouses and Self-Storage Units,lessors-of-miniwarehouses-and-self-storage-units-531130,119,0,0,0.0352
+323111,Commercial Printing,commercial-printing-except-screen-and-books-323111,119,5,0.042,0.0352
+812910,Pet Care Services,pet-care-except-veterinary-services-812910,117,4,0.0342,0.0352
+444140,Hardware Retailers,hardware-retailers-444140,116,2,0.0172,0.0352
+459110,Sporting Goods Retailers,sporting-goods-retailers-459110,115,3,0.0261,0.0352
+458110,Clothing and Clothing Accessories Retailers,clothing-and-clothing-accessories-retailers-458110,114,4,0.0351,0.0352
+332710,Machine Shops,machine-shops-332710,97,1,0.0103,0.0352
+441310,Automotive Parts and Accessories Stores,automotive-parts-and-accessories-stores-441310,97,7,0.0722,0.0352
+812199,Other Personal Care Services,other-personal-care-services-812199,96,5,0.0521,0.0352
+444180,Other Building Material Dealers,other-building-material-dealers-444180,96,7,0.0729,0.0352
+523930,Investment Advice,investment-advice-523930,96,0,0,0.0352
+445298,All Other Specialty Food Retailers,all-other-specialty-food-retailers-445298,95,5,0.0526,0.0352
+561790,Other Services to Buildings and Dwellings,other-services-to-buildings-and-dwellings-561790,91,6,0.0659,0.0352
+112320,Broilers and Other Meat Type Chicken Production,broilers-and-other-meat-type-chicken-production-112320,86,4,0.0465,0.0352
+236118,Residential Remodelers,residential-remodelers-236118,81,4,0.0494,0.0352
+713990,All Other Amusement and Recreation Industries,all-other-amusement-and-recreation-industries-713990,80,6,0.075,0.0352
+561431,Private Mail Centers,private-mail-centers-561431,79,2,0.0253,0.0352
+339950,Sign Manufacturing,sign-manufacturing-339950,77,5,0.0649,0.0352
+454110,Electronic Shopping and Mail-Order Houses,electronic-shopping-and-mail-order-houses-454110,77,11,0.1429,0.0352
+811310,Commercial and Industrial Machinery and Equipment Repair and Maintenance,commercial-and-industrial-machinery-and-equipment-except-automotive-and-electron-811310,76,0,0,0.0352
+541219,Other Accounting Services,other-accounting-services-541219,74,2,0.027,0.0352
+541330,Engineering Services,engineering-services-541330,71,0,0,0.0352
+541519,Other Computer Related Services,other-computer-related-services-541519,67,4,0.0597,0.0352
+238910,Site Preparation Contractors,site-preparation-contractors-238910,67,3,0.0448,0.0352
+441340,Tire Dealers,tire-dealers-441340,65,2,0.0308,0.0352
+541213,Tax Preparation Services,tax-preparation-services-541213,65,0,0,0.0352
+238160,Roofing Contractors,roofing-contractors-238160,60,3,0.05,0.0352
+812113,Nail Salons,nail-salons-812113,58,3,0.0517,0.0352
+332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,all-other-miscellaneous-fabricated-metal-product-manufacturing-332999,58,2,0.0345,0.0352
+238150,Glass and Glazing Contractors,glass-and-glazing-contractors-238150,56,4,0.0714,0.0352
+621111,Offices of Physicians,offices-of-physicians-except-mental-health-specialists-621111,55,2,0.0364,0.0352
+423990,Other Miscellaneous Durable Goods Merchant Wholesalers,other-miscellaneous-durable-goods-merchant-wholesalers-423990,54,1,0.0185,0.0352
+459420,"Gift, Novelty, and Souvenir Retailers",gift-novelty-and-souvenir-retailers-459420,54,3,0.0556,0.0352
+459910,Pet and Pet Supplies Retailers,pet-and-pet-supplies-retailers-459910,54,2,0.037,0.0352
+541511,Custom Computer Programming Services,custom-computer-programming-services-541511,52,2,0.0385,0.0352
+423830,Industrial Machinery and Equipment Merchant Wholesalers,industrial-machinery-and-equipment-merchant-wholesalers-423830,52,2,0.0385,0.0352
+454390,Other Direct Selling Establishments,other-direct-selling-establishments-454390,50,1,0.02,0.0352
+811490,Other Personal and Household Goods Repair and Maintenance,other-personal-and-household-goods-repair-and-maintenance-811490,50,2,0.04,0.0352
+459310,Florists,florists-459310,50,1,0.02,0.0352

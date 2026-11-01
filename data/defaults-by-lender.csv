@@ -1,0 +1,44 @@
+name,display_name,slug,seasoned_loans,charged_off,charge_off_rate,national_rate
+Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,1665,51,0.0306,0.0352
+The Huntington National Bank,Huntington Bank,the-huntington-national-bank,862,34,0.0394,0.0352
+Stearns Bank National Association,Stearns Bank,stearns-bank-national-association,434,32,0.0737,0.0352
+Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,417,37,0.0887,0.0352
+Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,409,15,0.0367,0.0352
+Hanmi Bank,Hanmi Bank,hanmi-bank,363,7,0.0193,0.0352
+Columbia Bank,Columbia Bank,columbia-bank,328,16,0.0488,0.0352
+Bank of Hope,Bank of Hope,bank-of-hope,301,16,0.0532,0.0352
+Byline Bank,Byline Bank,byline-bank,259,17,0.0656,0.0352
+Manufacturers and Traders Trust Company,M&T Bank,manufacturers-and-traders-trust-company,256,20,0.0781,0.0352
+United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,237,2,0.0084,0.0352
+Beacon Bank and Trust,Beacon Bank and Trust,beacon-bank-and-trust,230,4,0.0174,0.0352
+Metro City Bank,Metro City Bank,metro-city-bank,226,3,0.0133,0.0352
+Pinnacle Bank,Pinnacle Bank,pinnacle-bank,211,4,0.019,0.0352
+Midwest Regional Bank,Midwest Regional Bank,midwest-regional-bank,202,18,0.0891,0.0352
+GBank,GBank,gbank,199,3,0.0151,0.0352
+"PNC Bank, National Association",PNC Bank,pnc-bank-national-association,196,1,0.0051,0.0352
+"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,191,11,0.0576,0.0352
+Old National Bank,Old National Bank,old-national-bank,185,7,0.0378,0.0352
+Open Bank,Open Bank,open-bank,183,3,0.0164,0.0352
+First Financial Bank,First Financial Bank,first-financial-bank,167,5,0.0299,0.0352
+"SouthState Bank, National Association",SouthState Bank,southstate-bank-national-association,164,3,0.0183,0.0352
+United Community Bank,United Community Bank,united-community-bank,159,6,0.0377,0.0352
+The Bancorp Bank National Association,The Bancorp Bank,the-bancorp-bank-national-association,156,3,0.0192,0.0352
+Plumas Bank,Plumas Bank,plumas-bank,156,3,0.0192,0.0352
+BankVista,BankVista,bankvista,153,11,0.0719,0.0352
+Citizens Bank,Citizens Bank (TN),citizens-bank,153,8,0.0523,0.0352
+BMO Bank National Association,BMO Bank,bmo-bank-national-association,152,3,0.0197,0.0352
+Fifth Third Bank,Fifth Third Bank,fifth-third-bank,149,3,0.0201,0.0352
+KeyBank National Association,KeyBank,keybank-national-association,138,5,0.0362,0.0352
+First Bank,First Bank,first-bank,135,8,0.0593,0.0352
+Northwest Bank,Northwest Bank,northwest-bank,134,0,0,0.0352
+Truist Bank,Truist Bank,truist-bank,134,7,0.0522,0.0352
+"Newtek Small Business Finance, LLC",Newtek Small Business Finance,newtek-small-business-finance-llc,132,6,0.0455,0.0352
+Customers Bank,Customers Bank,customers-bank,120,6,0.05,0.0352
+"Bank of America, National Association",Bank of America,bank-of-america-national-association,118,1,0.0085,0.0352
+Commonwealth Business Bank,Commonwealth Business Bank,commonwealth-business-bank,111,2,0.018,0.0352
+Glacier Bank,Glacier Bank,glacier-bank,106,1,0.0094,0.0352
+"TD Bank, National Association",TD Bank,td-bank-national-association,105,1,0.0095,0.0352
+Simmons Bank,Simmons Bank,simmons-bank,104,6,0.0577,0.0352
+BayFirst National Bank,BayFirst National Bank,bayfirst-national-bank,102,11,0.1078,0.0352
+"BankUnited, National Association",BankUnited,bankunited-national-association,102,2,0.0196,0.0352
+First Commonwealth Bank,First Commonwealth Bank,first-commonwealth-bank,101,2,0.0198,0.0352

@@ -1,0 +1,101 @@
+rank,lender_name,display_name,lender_slug,home_state,loans,dollars,avg_loan,acquisition_loans,acquisition_share,plp_share,share_of_all_loans
+1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,FL,3480,932059400,267833,81,0.0233,0.5586,0.0717
+2,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,OH,3042,1255755900,412806,760,0.2498,0.5365,0.0627
+3,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,OH,2797,876218400,313271,47,0.0168,0.232,0.0576
+4,Manufacturers and Traders Trust Company,M&T Bank,manufacturers-and-traders-trust-company,NY,2687,305270100,113610,81,0.0301,0.067,0.0554
+5,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,NC,2308,2498195800,1082407,668,0.2894,0.883,0.0476
+6,"TD Bank, National Association",TD Bank,td-bank-national-association,DE,1633,257684600,157798,5,0.0031,0.0557,0.0337
+7,Northeast Bank,Northeast Bank,northeast-bank,ME,1527,273028700,178801,0,0,0.9993,0.0315
+8,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,NJ,1181,393506300,333198,60,0.0508,0.9983,0.0243
+9,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,UT,997,501803900,503314,83,0.0832,0.996,0.0205
+10,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,UT,992,305907100,308374,85,0.0857,0.498,0.0204
+11,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,IL,919,186167700,202576,1,0.0011,1,0.0189
+12,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,OH,826,235760800,285425,7,0.0085,0.0835,0.017
+13,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,OH,789,321205000,407104,93,0.1179,1,0.0163
+14,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,CA,776,165827800,213696,11,0.0142,0.9987,0.016
+15,Columbia Bank,Columbia Bank,columbia-bank,OR,682,80262900,117688,10,0.0147,0.0557,0.0141
+16,KeyBank National Association,KeyBank,keybank-national-association,OH,522,236057100,452217,21,0.0402,0.3908,0.0108
+17,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,SD,492,435994100,886167,9,0.0183,0.8496,0.0101
+18,Bank of Hope,Bank of Hope,bank-of-hope,CA,423,527079300,1246050,25,0.0591,0.6525,0.0087
+19,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,CA,417,440426100,1056178,22,0.0528,0.9928,0.0086
+20,Banco Popular de Puerto Rico,Banco Popular de Puerto Rico,,PR,413,50649100,122637,2,0.0048,0.0339,0.0085
+21,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,OH,408,361284500,885501,58,0.1422,0.4485,0.0084
+22,Byline Bank,Byline Bank,byline-bank,IL,391,531412100,1359110,184,0.4706,0.8593,0.0081
+23,"Bank of America, National Association",Bank of America,bank-of-america-national-association,NC,388,289449800,746005,30,0.0773,0.5103,0.008
+24,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,MO,386,342929000,888417,22,0.057,0.9534,0.008
+25,Eastern Bank,Eastern Bank,eastern-bank,MA,313,34687100,110821,7,0.0224,0.1054,0.0064
+26,First Internet Bank of Indiana,First Internet Bank,first-internet-bank-of-indiana,IN,279,325900100,1168101,201,0.7204,0.5914,0.0057
+27,US Metro Bank,US Metro Bank,us-metro-bank,CA,253,508461700,2009730,92,0.3636,0.996,0.0052
+28,Hanmi Bank,Hanmi Bank,hanmi-bank,CA,236,196495400,832608,127,0.5381,0.911,0.0049
+29,Pathward National Association,Pathward,pathward-national-association,SD,229,480685500,2099063,125,0.5459,0.8079,0.0047
+30,Port 51 Lending LLC,Port 51 Lending,port-51-lending-llc,NY,223,430953600,1932527,53,0.2377,0.9821,0.0046
+31,Citizens Bank,Citizens Bank (TN),citizens-bank,TN,217,209549200,965665,34,0.1567,0.9816,0.0045
+32,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,TX,215,195259100,908182,70,0.3256,1,0.0044
+33,WaFd Bank,WaFd Bank,,WA,208,31666500,152243,8,0.0385,0.101,0.0043
+34,"PNC Bank, National Association",PNC Bank,pnc-bank-national-association,DE,207,79633100,384701,20,0.0966,0.4251,0.0043
+35,Pinnacle Bank,Pinnacle Bank,pinnacle-bank,TN,191,269495500,1410971,52,0.2723,0.8272,0.0039
+36,First-Citizens Bank & Trust Company,First-Citizens Bank & Trust Company,first-citizens-bank-and-trust-company,NC,186,168711900,907053,38,0.2043,0.5591,0.0038
+37,Stone Bank,Stone Bank,stone-bank,AR,186,74968200,403055,8,0.043,0.9731,0.0038
+38,Beacon Bank and Trust,Beacon Bank and Trust,beacon-bank-and-trust,MA,172,267574300,1555665,80,0.4651,0.6221,0.0035
+39,Wilmington Savings Fund Society FSB,Wilmington Savings Fund Society FSB,wilmington-savings-fund-society-fsb,DE,167,123857000,741659,36,0.2156,0.7665,0.0034
+40,TowneBank,TowneBank,townebank,VA,166,179108700,1078968,63,0.3795,0.8012,0.0034
+41,GBank,GBank,gbank,NV,161,539332400,3349891,75,0.4658,0.9938,0.0033
+42,Northwest Bank,Northwest Bank,northwest-bank,PA,160,208179300,1301121,39,0.2437,0.6312,0.0033
+43,Old National Bank,Old National Bank,old-national-bank,IN,160,170400500,1065003,46,0.2875,0.5813,0.0033
+44,East West Bank,East West Bank,east-west-bank,CA,160,126826000,792662,49,0.3063,0.8562,0.0033
+45,Climate First Bank,Climate First Bank,climate-first-bank,FL,159,177284700,1114998,15,0.0943,0.8679,0.0033
+46,CDC Small Business Finance Corp.,CDC Small Business Finance Corp.,cdc-small-business-finance-corp,CA,159,26647600,167595,3,0.0189,0.9811,0.0033
+47,Grasshopper Bank National Association,Grasshopper Bank,grasshopper-bank-national-association,NY,157,94841100,604083,11,0.0701,1,0.0032
+48,First Financial Bank,First Financial Bank,first-financial-bank,AR,156,171137200,1097033,62,0.3974,0.8205,0.0032
+49,Banner Bank,Banner Bank,banner-bank,WA,149,54014300,362512,14,0.094,0.1946,0.0031
+50,Gulf Coast Bank and Trust Company,Gulf Coast Bank and Trust Company,gulf-coast-bank-and-trust-company,LA,146,146296600,1002032,32,0.2192,0.863,0.003
+51,Open Bank,Open Bank,open-bank,CA,145,265224800,1829137,82,0.5655,0.9862,0.003
+52,Regions Bank,Regions Bank,regions-bank,AL,145,107297100,739980,8,0.0552,0.6069,0.003
+53,First Commonwealth Bank,First Commonwealth Bank,first-commonwealth-bank,PA,141,89181900,632496,17,0.1206,0.8582,0.0029
+54,Enterprise Bank & Trust,Enterprise Bank & Trust,enterprise-bank-and-trust,MO,140,231571100,1654079,2,0.0143,0.9643,0.0029
+55,"Santander Bank, National Association",Santander Bank,santander-bank-national-association,DE,139,46132900,331891,20,0.1439,0.1655,0.0029
+56,Colony Bank,Colony Bank,colony-bank,GA,134,74385100,555113,19,0.1418,0.9627,0.0028
+57,Commonwealth Business Bank,Commonwealth Business Bank,commonwealth-business-bank,CA,129,227213000,1761341,15,0.1163,0.9922,0.0027
+58,The Bancorp Bank National Association,The Bancorp Bank,the-bancorp-bank-national-association,SD,121,155985300,1289135,46,0.3802,0.9008,0.0025
+59,Hancock Whitney Bank,Hancock Whitney Bank,hancock-whitney-bank,MS,121,83636200,691208,27,0.2231,0.8595,0.0025
+60,First Merchants Bank,First Merchants Bank,first-merchants-bank,IN,120,122025100,1016876,29,0.2417,0.7333,0.0025
+61,Mountain America FCU,Mountain America FCU,mountain-america-fcu,UT,118,52329400,443469,3,0.0254,0.5254,0.0024
+62,Truliant FCU,Truliant FCU,truliant-fcu,NC,112,147919000,1320705,83,0.7411,0.9643,0.0023
+63,Peoples Bank,Peoples Bank,peoples-bank,MS,112,136715300,1220672,16,0.1429,0.7768,0.0023
+64,"SouthState Bank, National Association",SouthState Bank,southstate-bank-national-association,FL,109,53513700,490951,12,0.1101,0.9358,0.0022
+65,"Fulton Bank, National Association",Fulton Bank,fulton-bank-national-association,PA,107,109703100,1025263,30,0.2804,0.8598,0.0022
+66,Magnifi Financial CU,Magnifi Financial CU,magnifi-financial-cu,MN,103,31850500,309228,3,0.0291,1,0.0021
+67,Bankwell Bank,Bankwell Bank,bankwell-bank,CT,101,170223800,1685384,47,0.4653,0.9406,0.0021
+68,America First Federal Credit Union,America First Federal Credit Union,america-first-federal-credit-union,UT,97,118748700,1224213,11,0.1134,0.9691,0.002
+69,Rockland Trust Company,Rockland Trust Company,rockland-trust-company,MA,96,35094900,365572,24,0.25,0.5417,0.002
+70,Metro City Bank,Metro City Bank,metro-city-bank,GA,95,182988600,1926196,36,0.3789,0.9789,0.002
+71,FirstBank Puerto Rico,FirstBank Puerto Rico,,PR,95,20200900,212641,0,0,0.3158,0.002
+72,PCB Bank,PCB Bank,pcb-bank,CA,93,129865300,1396401,49,0.5269,1,0.0019
+73,OakStar Bank,OakStar Bank,oakstar-bank,MO,93,106674100,1147033,31,0.3333,0.8817,0.0019
+74,BancFirst,BancFirst,bancfirst,OK,93,36889200,396658,17,0.1828,0.4839,0.0019
+75,"T Bank, National Association",T Bank,t-bank-national-association,TX,92,178138600,1936289,43,0.4674,0.9022,0.0019
+76,United Community Bank,United Community Bank,united-community-bank,SC,92,88854000,965804,18,0.1957,0.7826,0.0019
+77,First Community Bank,First Community Bank,first-community-bank,VA,89,76868400,863690,8,0.0899,0.5618,0.0018
+78,PlainsCapital Bank,PlainsCapital Bank,plainscapital-bank,TX,89,26368900,296280,6,0.0674,0.1461,0.0018
+79,Stearns Bank National Association,Stearns Bank,stearns-bank-national-association,MN,87,30268700,347916,9,0.1034,0.7011,0.0018
+80,"AMPAC Tri-State CDC, Inc.",AMPAC Tri-State CDC,,CA,84,13485400,160540,2,0.0238,1,0.0017
+81,Accion Opportunity Fund Community Development,Accion Opportunity Fund Community Development,,CA,81,18305000,225988,1,0.0123,0,0.0017
+82,Heritage Bank Inc,Heritage Bank Inc,heritage-bank-inc,KY,80,92722000,1159025,20,0.25,1,0.0016
+83,"Capital Bank, National Association",Capital Bank,capital-bank-national-association,MD,79,94356500,1194386,27,0.3418,0.8481,0.0016
+84,Idaho Central CU,Idaho Central CU,idaho-central-cu,ID,79,44359700,561515,6,0.0759,0.6835,0.0016
+85,City National Bank,City National Bank,city-national-bank,CA,78,87561200,1122579,16,0.2051,0.8205,0.0016
+86,HomeTrust Bank,HomeTrust Bank,hometrust-bank,NC,75,75976600,1013021,14,0.1867,0.92,0.0015
+87,ESL FCU,ESL FCU,,NY,75,6981000,93080,1,0.0133,0.2933,0.0015
+88,Midwest Regional Bank,Midwest Regional Bank,midwest-regional-bank,MO,74,55822000,754351,34,0.4595,0.9054,0.0015
+89,Associated Bank National Association,Associated Bank,associated-bank-national-association,WI,73,70180200,961373,32,0.4384,0.6164,0.0015
+90,The Fidelity Bank,The Fidelity Bank,the-fidelity-bank,NC,73,66877900,916136,48,0.6575,0.7808,0.0015
+91,Accordia Bank,Accordia Bank,accordia-bank,UT,73,45840300,627949,14,0.1918,0.8767,0.0015
+92,Central Bank,Central Bank,central-bank,UT,73,31968300,437922,2,0.0274,0.6986,0.0015
+93,ConnectOne Bank,ConnectOne Bank,connectone-bank,NJ,72,70669000,981514,9,0.125,0.9028,0.0015
+94,Bank Five Nine,Bank Five Nine,bank-five-nine,WI,72,33676600,467731,9,0.125,0.8611,0.0015
+95,Woori America Bank,Woori America Bank,woori-america-bank,NY,70,67230400,960434,11,0.1571,0.9857,0.0014
+96,Sound Credit Union,Sound Credit Union,,WA,68,9046200,133032,0,0,0.0588,0.0014
+97,Milestone Bank,Milestone Bank,milestone-bank,UT,66,132115200,2001745,41,0.6212,0.8636,0.0014
+98,First National Bank of Pennsylvania,First National Bank of Pennsylvania,first-national-bank-of-pennsylvania,PA,66,56314400,853248,2,0.0303,0.7879,0.0014
+99,First Bank,First Bank,first-bank,NC,65,58824200,904988,8,0.1231,0.7231,0.0013
+100,Banc of California,Banc of California,banc-of-california,CA,64,96737600,1511525,8,0.125,0.9219,0.0013

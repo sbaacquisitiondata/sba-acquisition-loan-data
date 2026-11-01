@@ -1,0 +1,348 @@
+slug,name,url,acquisition_loans,total_dollars,median_loan,p25_loan,p75_loan,avg_interest_rate,median_term_months,jobs_supported,seasoned_loans,seasoned_charged_off,charge_off_rate,primary_naics,states_count,in_sba_directory,supply_agreement
+the-ups-store,The UPS Store,https://sbaacquisitiondata.com/franchise/the-ups-store,348,160978100,393000,264750,594400,7.84,120,2074,125,0,0,561431,42,true,false
+subway,Subway,https://sbaacquisitiondata.com/franchise/subway,217,77977300,228200,150000,355000,7.25,120,3403,144,8,0.0556,722513,40,true,false
+quality-inn,Quality Inn,https://sbaacquisitiondata.com/franchise/quality-inn,188,577824700,2993500,2289500,3800000,7.02,300,2113,87,2,0.023,721110,33,true,false
+super-8,Super 8,https://sbaacquisitiondata.com/franchise/super-8,140,294489800,1953000,1454000,2526250,7.16,300,1149,66,0,0,721110,32,true,false
+days-inn,Days Inn,https://sbaacquisitiondata.com/franchise/days-inn,128,319545700,2205000,1729500,3370450,7.2,300,1254,56,0,0,721110,31,true,false
+motel-6,Motel 6,https://sbaacquisitiondata.com/franchise/motel-6,116,322456800,2468250,1830000,3696250,6.65,300,1323,71,0,0,721110,27,true,false
+home-instead,Home Instead,https://sbaacquisitiondata.com/franchise/home-instead,114,119209300,642500,278750,1350000,7.24,120,9184,53,0,0,621610,31,true,false
+ace-hardware,Ace Hardware,https://sbaacquisitiondata.com/franchise/ace-hardware,111,144470000,957500,391000,1784000,6.56,120,2416,51,1,0.0196,444140,33,true,false
+best-western,Best Western,https://sbaacquisitiondata.com/franchise/best-western,109,376928500,3489500,2567000,4449000,6.83,300,1643,56,0,0,721110,31,true,false
+red-roof-inn,Red Roof Inn,https://sbaacquisitiondata.com/franchise/red-roof-inn,103,292667000,2666000,2120500,3488500,6.85,300,1200,64,0,0,721110,28,true,false
+anytime-fitness,Anytime Fitness,https://sbaacquisitiondata.com/franchise/anytime-fitness,102,64917000,350000,218425,837500,7.48,120,874,76,8,0.1053,713940,33,true,false
+dairy-queen,Dairy Queen,https://sbaacquisitiondata.com/franchise/dairy-queen,94,63339800,600000,350500,913500,7.31,123,1598,54,0,0,722513,28,true,false
+servpro,Servpro,https://sbaacquisitiondata.com/franchise/servpro,90,92867900,500000,300000,1699875,7.07,120,1626,45,3,0.0667,562910,26,true,false
+dominos-pizza,Domino's Pizza,https://sbaacquisitiondata.com/franchise/dominos-pizza,88,95126100,659850,400000,1302500,7.81,120,2542,36,2,0.0556,722513,32,true,false
+comfort-inn,Comfort Inn,https://sbaacquisitiondata.com/franchise/comfort-inn,80,312522500,4254250,3118000,5000000,7.1,300,1002,38,1,0.0263,721110,23,true,false
+baymont,Baymont,https://sbaacquisitiondata.com/franchise/baymont,69,178756200,2550000,1865000,3331000,6.99,300,774,36,1,0.0278,721110,20,true,false
+budget-blinds,Budget Blinds,https://sbaacquisitiondata.com/franchise/budget-blinds,68,45378400,407500,250000,976750,8.43,120,416,22,0,0,449122,27,true,false
+the-goddard-school,The Goddard School,https://sbaacquisitiondata.com/franchise/the-goddard-school,68,154951600,1777250,907500,3520325,6.44,120,1801,33,0,0,624410,20,true,false
+econo-lodge,Econo Lodge,https://sbaacquisitiondata.com/franchise/econo-lodge,67,114762000,1471900,1242500,2000000,6.79,300,537,40,0,0,721110,28,true,false
+la-quinta,La Quinta,https://sbaacquisitiondata.com/franchise/la-quinta,66,266352700,4386500,3265125,5000000,6.55,300,1005,39,0,0,721110,21,true,false
+primrose-schools,Primrose Schools,https://sbaacquisitiondata.com/franchise/primrose-schools,62,184255000,3044000,1587525,4946000,6.21,300,2137,27,0,0,624410,15,true,false
+rodeway-inn,Rodeway Inn,https://sbaacquisitiondata.com/franchise/rodeway-inn,62,148089300,1875000,1436250,3205225,6.98,300,672,35,0,0,721110,24,true,false
+little-caesars,Little Caesars,https://sbaacquisitiondata.com/franchise/little-caesars,60,61569700,675500,446250,1246250,6.95,120,2742,32,0,0,722513,24,true,false
+firehouse-subs,Firehouse Subs,https://sbaacquisitiondata.com/franchise/firehouse-subs,59,28723000,336000,245200,573150,7.56,120,1269,34,0,0,722513,22,true,false
+sleep-inn,Sleep Inn,https://sbaacquisitiondata.com/franchise/sleep-inn,54,189606400,3657700,2665275,4233000,6.79,300,642,30,0,0,721110,17,true,false
+fastsigns,FASTSIGNS,https://sbaacquisitiondata.com/franchise/fastsigns,51,43482700,540000,240000,1159000,7.36,120,587,28,0,0,339950,19,true,false
+jimmy-johns,Jimmy John's,https://sbaacquisitiondata.com/franchise/jimmy-johns,48,44165400,640000,349750,1205000,6.78,120,1995,31,0,0,722513,24,true,false
+edible-arrangements,Edible Arrangements,https://sbaacquisitiondata.com/franchise/edible-arrangements,47,18098300,300000,221250,458500,7.32,120,586,25,1,0.04,445298,19,true,false
+midas,Midas,https://sbaacquisitiondata.com/franchise/midas,47,38118100,450000,307550,960650,7.12,120,410,25,0,0,811111,20,true,false
+smartstyle,Smartstyle,https://sbaacquisitiondata.com/franchise/smartstyle,46,26392400,482500,277500,711250,7.32,120,2241,46,1,0.0217,812112,22,true,false
+holiday-inn-express,Holiday Inn Express,https://sbaacquisitiondata.com/franchise/holiday-inn-express,46,202904800,4821000,4126250,5000000,6.72,300,712,16,0,,721110,13,true,false
+world-fuel-services,World Fuel Services,https://sbaacquisitiondata.com/franchise/world-fuel-services,45,76815000,1440000,1011600,2143500,6.81,300,263,21,0,0,457110,10,true,true
+right-at-home,Right at Home,https://sbaacquisitiondata.com/franchise/right-at-home,44,36645900,638500,337500,1129125,7.05,120,3013,26,0,0,621610,17,true,false
+visiting-angels,Visiting Angels,https://sbaacquisitiondata.com/franchise/visiting-angels,43,40507400,571600,304000,1269250,7.96,120,2692,10,0,,621610,19,true,false
+tropical-smoothie-cafe,Tropical Smoothie Cafe,https://sbaacquisitiondata.com/franchise/tropical-smoothie-cafe,40,28476700,474000,287000,916950,7.99,120,1076,18,0,,722513,19,true,false
+cold-stone-creamery,Cold Stone Creamery,https://sbaacquisitiondata.com/franchise/cold-stone-creamery,39,14799400,285000,164200,521100,7.8,120,720,17,0,,722515,19,true,false
+country-inn-and-suites-by-radisson,Country Inn and Suites by Radisson,https://sbaacquisitiondata.com/franchise/country-inn-and-suites-by-radisson,39,146809900,4000000,3185000,4726800,7.22,300,709,18,1,,721110,15,true,false
+big-o-tires,Big O Tires,https://sbaacquisitiondata.com/franchise/big-o-tires,38,53084300,1091500,732500,1626750,6.34,120,646,28,1,0.0357,441340,10,true,false
+brightstar-care,BrightStar Care,https://sbaacquisitiondata.com/franchise/brightstar-care,38,41737600,707300,203250,1405500,7.42,120,3265,15,0,,621610,15,true,false
+certapro-painters,CertaPro Painters,https://sbaacquisitiondata.com/franchise/certapro-painters,37,20505000,374000,200000,654500,8.11,120,306,10,0,,238320,20,true,false
+senior-helpers,Senior Helpers,https://sbaacquisitiondata.com/franchise/senior-helpers,37,21660200,456000,150000,784000,8.38,120,2277,11,0,,621610,16,true,false
+papa-johns,Papa John's,https://sbaacquisitiondata.com/franchise/papa-johns,35,27299000,510000,205750,1111500,7.23,120,1703,24,2,0.0833,722513,9,true,false
+supercuts,Supercuts,https://sbaacquisitiondata.com/franchise/supercuts,35,29749300,467000,255000,1206000,6.83,120,1103,33,0,0,812112,17,true,false
+travelodge,Travelodge,https://sbaacquisitiondata.com/franchise/travelodge,35,80564800,1949000,1500000,2985050,7.21,300,350,17,0,,721110,18,true,false
+minuteman-press,Minuteman Press,https://sbaacquisitiondata.com/franchise/minuteman-press,34,18760300,400450,187750,633150,8.71,120,221,10,0,,323111,17,true,false
+comfort-suites,Comfort Suites,https://sbaacquisitiondata.com/franchise/comfort-suites,34,135299200,4220000,3197125,5000000,7.48,300,367,11,0,,721110,13,false,false
+baskin-robbins,Baskin-Robbins,https://sbaacquisitiondata.com/franchise/baskin-robbins,33,8343200,207300,164500,270000,7.29,120,325,20,2,0.1,722515,12,true,false
+chevron,Chevron,https://sbaacquisitiondata.com/franchise/chevron,32,83226700,2416000,1272500,3918750,6.54,300,229,18,0,,457110,5,true,true
+comfort-keepers,Comfort Keepers,https://sbaacquisitiondata.com/franchise/comfort-keepers,30,31172700,657350,238400,1478750,7.56,120,1945,12,0,,621610,17,true,false
+crumbl,Crumbl,https://sbaacquisitiondata.com/franchise/crumbl,30,44118000,1211500,455750,1800000,8.73,120,1359,2,0,,722515,15,true,false
+americas-best-value-inn,Americas Best Value Inn,https://sbaacquisitiondata.com/franchise/americas-best-value-inn,29,52497600,1564000,1052200,2313000,6.39,300,244,20,0,0,721110,17,true,false
+papa-murphys-take-n-bake-pizza,Papa Murphy's Take 'N' Bake Pizza,https://sbaacquisitiondata.com/franchise/papa-murphys-take-n-bake-pizza,29,23216400,378000,310500,572000,7.11,120,694,16,1,,722513,11,true,false
+servicemaster,ServiceMaster,https://sbaacquisitiondata.com/franchise/servicemaster,29,19974900,608800,390000,880000,6.9,120,737,19,1,,561720,20,false,false
+smoothie-king,Smoothie King,https://sbaacquisitiondata.com/franchise/smoothie-king,29,15880500,332200,238800,745000,7.05,120,524,19,0,,722515,14,true,false
+ameriprise-financial,Ameriprise Financial,https://sbaacquisitiondata.com/franchise/ameriprise-financial,28,38118400,1150000,562250,1800000,6.36,120,100,22,0,0,523930,19,false,false
+meineke-car-care-center,Meineke Car Care Center,https://sbaacquisitiondata.com/franchise/meineke-car-care-center,28,22965400,523000,387500,1106250,6.95,120,267,17,1,,811111,12,true,false
+do-it-best,Do it Best,https://sbaacquisitiondata.com/franchise/do-it-best,28,21864900,439650,267400,1335500,6.39,120,221,15,0,,444140,15,true,false
+maaco,Maaco,https://sbaacquisitiondata.com/franchise/maaco,27,29060700,537200,350000,1472500,7.72,120,699,15,1,,811121,16,true,false
+marcos-pizza,Marco's Pizza,https://sbaacquisitiondata.com/franchise/marcos-pizza,27,14141900,336800,206500,639000,7.45,120,611,16,3,,722513,11,true,false
+microtel-inn-and-suites,Microtel Inn & Suites,https://sbaacquisitiondata.com/franchise/microtel-inn-and-suites,27,79378100,3050000,2117500,3779850,6.45,300,364,19,0,,721110,18,true,false
+wild-birds-unlimited,Wild Birds Unlimited,https://sbaacquisitiondata.com/franchise/wild-birds-unlimited,27,13138400,445300,311650,549500,7.6,120,202,14,0,,459910,20,true,false
+sunoco,Sunoco,https://sbaacquisitiondata.com/franchise/sunoco,27,43531100,1550000,990500,1979500,6.92,300,160,12,1,,457110,10,true,true
+orange-theory-fitness,Orange Theory Fitness,https://sbaacquisitiondata.com/franchise/orange-theory-fitness,26,31586200,890700,284075,1396925,7.28,120,437,7,0,,713940,15,true,false
+play-it-again-sports,Play It Again Sports,https://sbaacquisitiondata.com/franchise/play-it-again-sports,26,10431300,372000,255250,487125,8.17,120,174,12,1,,459110,14,true,false
+signarama,Signarama,https://sbaacquisitiondata.com/franchise/signarama,26,14647600,404000,183625,755350,7.5,120,253,17,4,,339950,12,true,false
+christensen-inc,Christensen Inc.,https://sbaacquisitiondata.com/franchise/christensen-inc,26,46093700,1582500,973000,2261750,7.04,300,150,14,1,,457110,3,true,true
+aamco-transmissions-and-total-car-care,AAMCO Transmissions and Total Car Care,https://sbaacquisitiondata.com/franchise/aamco-transmissions-and-total-car-care,25,20719500,645300,350000,928000,8.31,120,154,6,1,,811111,14,true,false
+pure-barre,Pure Barre,https://sbaacquisitiondata.com/franchise/pure-barre,25,6701600,240000,199300,327000,7.34,120,451,12,0,,713940,12,true,false
+clarion-inn,Clarion Inn,https://sbaacquisitiondata.com/franchise/clarion-inn,24,73669600,3127500,2378000,3556950,7.45,300,466,11,1,,721110,15,true,false
+hampton-inn,Hampton Inn,https://sbaacquisitiondata.com/franchise/hampton-inn,24,93188900,4233500,3620000,5000000,6.7,300,377,14,0,,721110,17,true,false
+ramada,Ramada,https://sbaacquisitiondata.com/franchise/ramada,23,70833200,2905000,1808500,4083500,6.97,300,349,14,0,,721110,17,true,false
+sylvan-learning-centers,Sylvan Learning Centers,https://sbaacquisitiondata.com/franchise/sylvan-learning-centers,23,14999900,350000,233400,1003500,8.34,120,497,11,0,,611691,11,true,false
+platos-closet,Plato's Closet,https://sbaacquisitiondata.com/franchise/platos-closet,22,13663800,490000,379650,651750,7.43,120,357,10,0,,458110,16,true,false
+am-pm-mini-mart,AM/PM Mini-Mart,https://sbaacquisitiondata.com/franchise/am-pm-mini-mart,22,59645500,2310000,1265000,4663500,7.58,300,176,9,0,,457110,5,false,true
+surestay,SureStay,https://sbaacquisitiondata.com/franchise/surestay,22,66163500,2875000,2065750,4133750,6.91,300,216,8,1,,721110,11,true,false
+culvers,Culver's,https://sbaacquisitiondata.com/franchise/culvers,21,26872100,802000,307300,1386000,6.29,120,936,11,0,,722513,11,true,false
+fairfield-by-marriott,Fairfield by Marriott,https://sbaacquisitiondata.com/franchise/fairfield-by-marriott,21,93518700,5000000,4075000,5000000,7.69,300,331,5,0,,721110,14,true,false
+health-mart-pharmacy,Health Mart Pharmacy,https://sbaacquisitiondata.com/franchise/health-mart-pharmacy,21,32663000,1350000,865000,2030000,6.11,120,245,19,0,,456110,13,false,false
+kiddie-academy,Kiddie Academy,https://sbaacquisitiondata.com/franchise/kiddie-academy,21,31854300,1063800,518000,1975000,6.96,120,532,9,0,,624410,12,true,false
+massage-envy,Massage Envy,https://sbaacquisitiondata.com/franchise/massage-envy,21,16394700,600000,416800,1030500,7.38,120,721,16,1,,812199,12,true,false
+once-upon-a-child,Once Upon A Child,https://sbaacquisitiondata.com/franchise/once-upon-a-child,21,9420400,379000,260000,640000,8.02,120,322,10,0,,448130,12,true,false
+jackson-hewitt-tax-service,Jackson Hewitt Tax Service,https://sbaacquisitiondata.com/franchise/jackson-hewitt-tax-service,20,26615700,1277100,608700,1607500,6.53,120,945,12,0,,541213,12,true,false
+kids-r-kids,Kids 'R' Kids,https://sbaacquisitiondata.com/franchise/kids-r-kids,20,57772200,2925350,1442500,4783475,6.83,300,643,13,0,,624410,6,true,false
+merry-maids,Merry Maids,https://sbaacquisitiondata.com/franchise/merry-maids,20,10268700,561000,217500,744000,8.26,120,396,6,0,,561720,11,true,false
+wilson-oil,Wilson Oil,https://sbaacquisitiondata.com/franchise/wilson-oil,20,46622700,1938500,1493425,2578250,6.92,300,148,10,0,,457110,2,true,true
+two-men-and-a-truck,Two Men and a Truck,https://sbaacquisitiondata.com/franchise/two-men-and-a-truck,19,26143600,1200000,566000,1653800,6.66,120,822,10,0,,484210,13,true,false
+jackson-food-stores,Jackson Food Stores,https://sbaacquisitiondata.com/franchise/jackson-food-stores,19,43760300,1842000,1227500,2902500,6.66,300,185,11,0,,457110,4,true,true
+classic-star-group-distributor,Classic Star Group (Distributor),https://sbaacquisitiondata.com/franchise/classic-star-group-distributor,19,29255300,1390000,1019250,2136500,6.18,300,69,16,1,,457110,1,false,true
+american-deli,American Deli,https://sbaacquisitiondata.com/franchise/american-deli,18,7769400,420000,261250,492000,7.62,120,122,8,0,,722513,6,true,false
+grease-monkey,Grease Monkey,https://sbaacquisitiondata.com/franchise/grease-monkey,18,13589900,588500,373050,982625,6.86,120,190,11,0,,811191,11,true,false
+image360,Image360,https://sbaacquisitiondata.com/franchise/image360,18,9242900,513800,303250,690000,8.51,120,132,1,0,,339950,11,true,false
+true-value,True Value,https://sbaacquisitiondata.com/franchise/true-value,18,14782600,790000,317500,970500,7.58,120,223,10,0,,444140,12,true,false
+comforcare-home-care,ComForCare Home Care,https://sbaacquisitiondata.com/franchise/comforcare-home-care,17,15909400,680000,346000,1075000,7.9,120,926,5,0,,621610,12,true,false
+european-wax-center,European Wax Center,https://sbaacquisitiondata.com/franchise/european-wax-center,17,16874500,467000,337100,1269600,7.03,120,241,16,0,,812199,10,true,false
+great-clips,Great Clips,https://sbaacquisitiondata.com/franchise/great-clips,17,24386000,938000,350000,2430000,6.87,120,749,6,0,,812112,11,true,false
+jets-pizza,Jet's Pizza,https://sbaacquisitiondata.com/franchise/jets-pizza,17,8545600,362000,230000,688000,6.95,120,386,12,0,,722513,6,true,false
+martinizing-cleaners,Martinizing Cleaners,https://sbaacquisitiondata.com/franchise/martinizing-cleaners,17,6820200,330000,233000,532500,6.96,120,179,17,4,,812320,9,true,false
+mosquito-joe,Mosquito Joe,https://sbaacquisitiondata.com/franchise/mosquito-joe,17,12145300,525000,175000,802000,7.92,120,239,3,0,,561710,9,true,false
+rainbow-restoration,Rainbow Restoration,https://sbaacquisitiondata.com/franchise/rainbow-restoration,17,5722000,335000,150000,418000,6.24,120,111,13,2,,238990,11,true,false
+round-table-pizza,Round Table Pizza,https://sbaacquisitiondata.com/franchise/round-table-pizza,17,12973100,450000,381500,1166000,7.56,120,582,10,0,,722513,1,true,false
+its-boba-time,It's Boba Time,https://sbaacquisitiondata.com/franchise/its-boba-time,17,10229000,535000,461000,670000,7.31,120,194,9,0,,722515,1,true,false
+phillips-66,Phillips 66,https://sbaacquisitiondata.com/franchise/phillips-66,17,44603000,2250000,1560000,3175000,6.94,300,82,8,0,,457110,3,false,true
+sport-clips,Sport Clips,https://sbaacquisitiondata.com/franchise/sport-clips,17,20850900,988000,216000,1663000,6.87,120,770,11,1,,812111,11,true,false
+express-employment-professionals,Express Employment Professionals,https://sbaacquisitiondata.com/franchise/express-employment-professionals,17,11964400,675000,419100,805000,7.87,120,100,5,0,,561311,13,true,false
+circle-k,Circle K,https://sbaacquisitiondata.com/franchise/circle-k,17,20448400,672000,525000,2123000,7.63,120,134,9,0,,457110,4,true,true
+dickeys-barbecue-pit,Dickey's Barbecue Pit,https://sbaacquisitiondata.com/franchise/dickeys-barbecue-pit,16,4992600,275000,232250,398075,7.73,120,367,9,2,,722511,8,false,false
+molly-maid,Molly Maid,https://sbaacquisitiondata.com/franchise/molly-maid,16,7035900,402500,230250,610425,9.1,120,335,5,0,,561720,11,true,false
+sei-fuel-services,SEI Fuel Services,https://sbaacquisitiondata.com/franchise/sei-fuel-services,16,31516400,2017500,1302750,2573500,6.08,300,102,10,0,,457110,1,false,true
+napa-autocare,NAPA AutoCare,https://sbaacquisitiondata.com/franchise/napa-autocare,16,13399600,838350,499375,1204050,6.53,120,256,10,1,,811111,11,false,false
+burn-boot-camp-fitness,Burn Boot Camp Fitness,https://sbaacquisitiondata.com/franchise/burn-boot-camp-fitness,15,7487200,540000,262750,624500,8.15,120,188,4,0,,713940,12,true,false
+club-pilates,Club Pilates,https://sbaacquisitiondata.com/franchise/club-pilates,15,7712400,412000,268200,551750,7.3,120,213,10,0,,713940,12,true,false
+home-helpers-home-care,Home Helpers Home Care,https://sbaacquisitiondata.com/franchise/home-helpers-home-care,15,15093400,700000,286700,1534000,7.98,120,954,8,0,,621610,10,true,false
+paris-baguette,Paris Baguette,https://sbaacquisitiondata.com/franchise/paris-baguette,15,20899000,1143000,640000,1680000,8.23,120,364,3,0,,445291,3,true,false
+ritas-ice-custard-happiness,Rita's Ice-Custard-Happiness,https://sbaacquisitiondata.com/franchise/ritas-ice-custard-happiness,15,4675700,250300,181100,309100,8.16,120,172,6,0,,722515,6,true,false
+hotworx,Hotworx,https://sbaacquisitiondata.com/franchise/hotworx,15,6561000,359000,325700,527650,9.07,120,115,3,0,,713940,8,true,false
+alphagraphics,AlphaGraphics,https://sbaacquisitiondata.com/franchise/alphagraphics,14,9365000,455750,312500,673500,6.92,120,203,12,0,,323111,9,true,false
+always-best-care-services,Always Best Care Services,https://sbaacquisitiondata.com/franchise/always-best-care-services,14,8598400,518000,284100,906500,7.46,120,758,5,0,,621610,9,true,false
+batteries-plus,Batteries Plus,https://sbaacquisitiondata.com/franchise/batteries-plus,14,18742000,1146500,728250,1566475,6.83,120,288,7,0,,459999,12,true,false
+dogtopia,Dogtopia,https://sbaacquisitiondata.com/franchise/dogtopia,14,11381200,665000,494525,1110000,8.13,120,313,3,0,,812910,9,true,false
+great-harvest,Great Harvest,https://sbaacquisitiondata.com/franchise/great-harvest,14,5649300,348000,169550,574300,7.49,120,211,10,1,,445291,9,true,false
+jersey-mikes-subs,Jersey Mike's Subs,https://sbaacquisitiondata.com/franchise/jersey-mikes-subs,14,10575000,351400,267750,672750,7.66,120,362,7,0,,722513,9,true,false
+kumon,Kumon,https://sbaacquisitiondata.com/franchise/kumon,14,5110800,306550,201500,461850,8.63,120,153,4,0,,611691,9,true,false
+snap-fitness,Snap Fitness,https://sbaacquisitiondata.com/franchise/snap-fitness,14,2877900,190000,129050,237250,7.94,120,53,9,1,,713940,12,true,false
+zaxbys,Zaxby's,https://sbaacquisitiondata.com/franchise/zaxbys,14,23641600,1477700,915375,1828750,7.2,120,609,5,0,,722513,7,true,false
+pacwest-energy-shell,PacWest Energy (Shell),https://sbaacquisitiondata.com/franchise/pacwest-energy-shell,14,37840500,2133000,1847500,3475750,7.29,300,84,8,0,,457110,2,false,true
+lords-and-ladies,LORDS & LADIES,https://sbaacquisitiondata.com/franchise/lords-and-ladies,14,4301500,215000,25000,597750,5.46,120,538,14,0,,812112,1,false,false
+strickland-brothers-10-minute-oil-change,Strickland Brothers 10 Minute Oil Change,https://sbaacquisitiondata.com/franchise/strickland-brothers-10-minute-oil-change,14,15921000,1062500,682500,1541250,6.5,120,187,4,0,,811191,8,false,false
+farmers-insurance,Farmers Insurance,https://sbaacquisitiondata.com/franchise/farmers-insurance,14,6069700,314750,120150,544550,7.66,120,46,6,2,,524210,8,false,true
+boyett-petroleum,Boyett Petroleum,https://sbaacquisitiondata.com/franchise/boyett-petroleum,14,33393000,2498050,1205875,2807750,7.02,300,83,8,0,,457110,1,true,true
+americinn,AmericInn,https://sbaacquisitiondata.com/franchise/americinn,13,31601900,2470000,2137000,2760800,7.17,300,113,6,1,,721110,6,true,false
+camp-bow-wow,Camp Bow Wow,https://sbaacquisitiondata.com/franchise/camp-bow-wow,13,12983800,848300,449200,1192000,7.47,120,324,4,0,,812910,10,true,false
+huntington-learning-center,Huntington Learning Center,https://sbaacquisitiondata.com/franchise/huntington-learning-center,13,6084000,300000,220000,654000,7.73,120,208,6,0,,611691,11,true,false
+kilwins-chocolates-and-ice-cream-store,Kilwins Chocolates and Ice Cream Store,https://sbaacquisitiondata.com/franchise/kilwins-chocolates-and-ice-cream-store,13,7542500,465000,300000,742000,8.25,120,188,4,0,,445292,6,true,false
+mountain-mikes-pizza,Mountain Mike's Pizza,https://sbaacquisitiondata.com/franchise/mountain-mikes-pizza,13,7011800,525000,250000,687000,7.85,120,137,5,0,,722513,1,true,false
+speedpro-imaging,SpeedPro Imaging,https://sbaacquisitiondata.com/franchise/speedpro-imaging,13,11589500,671800,168000,1071000,8.56,120,65,3,1,,323111,9,true,false
+studio-6,Studio 6,https://sbaacquisitiondata.com/franchise/studio-6,13,41305600,2500000,2187000,4450000,7.5,300,110,5,0,,721110,6,true,false
+petland,Petland,https://sbaacquisitiondata.com/franchise/petland,13,21010400,1846000,596000,2100000,8.62,120,361,4,0,,459910,6,false,false
+hometowne-studios-by-red-roof,HomeTowne Studios by Red Roof,https://sbaacquisitiondata.com/franchise/hometowne-studios-by-red-roof,13,52111600,4520000,2975000,5000000,7.5,300,160,4,0,,721110,10,true,false
+allstate-home-inspection,Allstate Home Inspection,https://sbaacquisitiondata.com/franchise/allstate-home-inspection,12,7529400,458500,100000,781250,8.83,120,62,3,0,,524210,7,false,false
+allegra,Allegra,https://sbaacquisitiondata.com/franchise/allegra,12,5814300,407800,269250,565125,7.28,120,95,6,1,,323111,11,true,false
+candlewood-suites,Candlewood Suites,https://sbaacquisitiondata.com/franchise/candlewood-suites,12,56731000,4989500,4504250,5000000,8.5,300,265,1,0,,721110,7,true,false
+closet-factory,Closet Factory,https://sbaacquisitiondata.com/franchise/closet-factory,12,11326800,632400,337500,1302250,7.12,120,243,4,0,,337110,7,true,false
+dunkin,Dunkin',https://sbaacquisitiondata.com/franchise/dunkin,12,16086400,1262500,589800,1843500,6.86,120,353,8,1,,722513,8,true,false
+line-x,LINE-X,https://sbaacquisitiondata.com/franchise/line-x,12,11531800,554600,393275,920525,6.59,120,112,8,2,,441310,8,true,false
+mr-appliance,Mr. Appliance,https://sbaacquisitiondata.com/franchise/mr-appliance,12,7907100,602500,392500,776750,9.16,120,162,2,0,,811412,7,true,false
+mr-handyman,Mr. Handyman,https://sbaacquisitiondata.com/franchise/mr-handyman,12,5367600,408350,196800,686500,9.13,120,123,2,0,,238990,9,true,false
+the-cleaning-authority,The Cleaning Authority,https://sbaacquisitiondata.com/franchise/the-cleaning-authority,12,6797700,519950,307500,688750,7.84,120,310,6,2,,561720,10,true,false
+the-learning-experience,The Learning Experience,https://sbaacquisitiondata.com/franchise/the-learning-experience,12,12212500,500000,426500,1480125,7.71,120,354,7,0,,624410,8,true,false
+urban-air-adventure-park,Urban Air Adventure Park,https://sbaacquisitiondata.com/franchise/urban-air-adventure-park,12,29034500,2080000,1660725,3628125,7.54,120,482,4,0,,713990,7,true,false
+which-wich,Which Wich,https://sbaacquisitiondata.com/franchise/which-wich,12,4340200,310000,228525,372875,7.2,120,188,11,2,,722513,4,true,false
+workout-anytime,Workout Anytime,https://sbaacquisitiondata.com/franchise/workout-anytime,12,14167700,685000,536875,1415750,7.79,120,137,7,0,,713940,6,true,false
+u-s-oil-mobil,U.S. Oil (Mobil),https://sbaacquisitiondata.com/franchise/u-s-oil-mobil,12,17403700,1499100,893875,1885000,6.56,300,67,10,0,,457110,4,false,true
+chrysler,Chrysler,https://sbaacquisitiondata.com/franchise/chrysler,12,39690000,3312500,2145000,5000000,5.83,121,562,6,0,,441110,9,false,true
+arco-bp,Arco (BP),https://sbaacquisitiondata.com/franchise/arco-bp,12,21508000,988250,500000,2870625,6.27,168,109,8,0,,457110,4,true,true
+amazing-lash-studio,Amazing Lash Studio,https://sbaacquisitiondata.com/franchise/amazing-lash-studio,11,6587000,407000,356100,637250,7.59,120,188,6,0,,812112,7,true,false
+bee-hive-homes,Bee Hive Homes,https://sbaacquisitiondata.com/franchise/bee-hive-homes,11,28682800,2183000,1965600,3522800,6.09,300,189,7,0,,623312,7,true,false
+christian-brothers-automotive,Christian Brothers Automotive,https://sbaacquisitiondata.com/franchise/christian-brothers-automotive,11,9623200,575000,490350,1134250,5.15,120,78,7,0,,811111,6,true,false
+menchies,Menchie's,https://sbaacquisitiondata.com/franchise/menchies,11,3306400,247000,149500,500000,9.95,120,119,2,0,,722513,5,true,false
+paul-davis-restoration,Paul Davis Restoration,https://sbaacquisitiondata.com/franchise/paul-davis-restoration,11,18243100,1095000,815000,2071000,7.93,120,320,3,0,,562910,9,true,false
+pearle-vision,Pearle Vision,https://sbaacquisitiondata.com/franchise/pearle-vision,11,8936400,600000,348800,1064000,7.75,120,93,6,0,,621320,9,true,false
+pet-supplies-plus,Pet Supplies Plus,https://sbaacquisitiondata.com/franchise/pet-supplies-plus,11,17248500,1161500,472500,1753400,8.16,120,277,4,0,,459910,7,true,false
+ed-staubs-and-sons-petroleum-multi-brands,Ed Staubs & Sons Petroleum (Multi-brands),https://sbaacquisitiondata.com/franchise/ed-staubs-and-sons-petroleum-multi-brands,11,20789600,1655000,554950,3215000,7.34,300,85,4,0,,457110,5,true,true
+ford-motor-company,Ford Motor Company,https://sbaacquisitiondata.com/franchise/ford-motor-company,11,29769500,2500000,1636250,3983500,6.66,204,247,8,0,,441110,9,false,true
+auntie-annes,Auntie Anne's,https://sbaacquisitiondata.com/franchise/auntie-annes,10,3471100,362500,251350,480375,6.72,120,151,10,0,,722513,7,true,false
+brusters-real-ice-cream,Bruster's Real Ice Cream,https://sbaacquisitiondata.com/franchise/brusters-real-ice-cream,10,6991100,569550,357750,940500,6.3,180,193,6,0,,722515,4,true,false
+burger-king,Burger King,https://sbaacquisitiondata.com/franchise/burger-king,10,22282800,1806800,1289550,2570000,8.17,120,807,2,0,,722513,8,true,false
+great-american-cookies,Great American Cookies,https://sbaacquisitiondata.com/franchise/great-american-cookies,10,4485100,302150,261875,603525,6.88,120,173,3,0,,722515,6,false,false
+pirtek,Pirtek,https://sbaacquisitiondata.com/franchise/pirtek,10,13591700,949500,514500,1635000,7.78,120,135,5,0,,811310,7,true,false
+signs-by-tomorrow,Signs by Tomorrow,https://sbaacquisitiondata.com/franchise/signs-by-tomorrow,10,4020300,422200,290425,580750,7.33,120,50,8,1,,339950,8,true,false
+sky-zone,Sky Zone,https://sbaacquisitiondata.com/franchise/sky-zone,10,21784100,1901250,1725000,2640075,7.22,120,417,6,0,,713990,9,true,false
+u-s-lawns,U.S. Lawns,https://sbaacquisitiondata.com/franchise/u-s-lawns,10,12161300,846100,673500,1239250,7.72,120,271,4,0,,561730,7,true,false
+carstar,Carstar,https://sbaacquisitiondata.com/franchise/carstar,10,9534500,586850,478600,1575500,6.12,153,133,8,0,,811121,8,true,false
+the-medicine-shoppe,The Medicine Shoppe,https://sbaacquisitiondata.com/franchise/the-medicine-shoppe,10,15821400,1425000,1160000,2226250,7.05,120,89,8,0,,456110,6,false,false
+board-and-brush-creative-studios,Board & Brush Creative Studios,https://sbaacquisitiondata.com/franchise/board-and-brush-creative-studios,10,1050100,64950,51250,115575,7.36,84,165,6,0,,611699,9,false,false
+extended-stay-america-suites,Extended Stay America Suites,https://sbaacquisitiondata.com/franchise/extended-stay-america-suites,10,35934500,3698000,2805000,4311000,8.62,300,86,,,,721110,8,true,false
+any-labtest-now,Any LabTest Now,https://sbaacquisitiondata.com/franchise/any-labtest-now,9,5853200,364000,318000,825000,8.86,120,58,2,0,,621511,4,true,false
+childrens-lighthouse-early-learning-schools,Children's Lighthouse Early Learning Schools,https://sbaacquisitiondata.com/franchise/childrens-lighthouse-early-learning-schools,9,33640800,4833700,3020000,5000000,6.52,300,227,2,0,,624410,1,true,false
+f45-training,F45 Training,https://sbaacquisitiondata.com/franchise/f45-training,9,3302900,293500,240000,350000,8.69,120,63,3,0,,713940,7,true,false
+fantastic-sams,Fantastic Sams,https://sbaacquisitiondata.com/franchise/fantastic-sams,9,3661500,262500,210000,612000,7.51,120,207,8,1,,812112,4,true,false
+fish-window-cleaning-services,Fish Window Cleaning Services,https://sbaacquisitiondata.com/franchise/fish-window-cleaning-services,9,4306900,462900,350000,560000,8.65,120,101,3,0,,561720,7,true,false
+fitness-together,Fitness Together,https://sbaacquisitiondata.com/franchise/fitness-together,9,1649800,126000,90000,300000,6.47,120,50,7,0,,713940,5,true,false
+golden-corral,Golden Corral,https://sbaacquisitiondata.com/franchise/golden-corral,9,21215300,1764500,670000,4000000,7.72,120,650,5,0,,722511,7,true,false
+hand-and-stone-massage-and-facial-spa,Hand and Stone Massage and Facial Spa,https://sbaacquisitiondata.com/franchise/hand-and-stone-massage-and-facial-spa,9,9353000,431000,250000,1206000,7.64,120,337,7,0,,812199,5,true,false
+interim-healthcare,Interim HealthCare,https://sbaacquisitiondata.com/franchise/interim-healthcare,9,14174000,875000,309000,3390000,8.1,120,1090,3,0,,621610,5,false,false
+junk-king,Junk King,https://sbaacquisitiondata.com/franchise/junk-king,9,3397800,345000,269800,486000,8.95,120,90,3,0,,562119,8,true,false
+mathnasium,Mathnasium,https://sbaacquisitiondata.com/franchise/mathnasium,9,5906000,327000,176400,375000,8.78,120,152,2,0,,611691,8,true,false
+monster-tree-service,Monster Tree Service,https://sbaacquisitiondata.com/franchise/monster-tree-service,9,10867400,740000,353400,1460000,8.78,120,100,,,,561730,7,true,false
+polaris,Polaris,https://sbaacquisitiondata.com/franchise/polaris,9,16985900,2134800,921500,2422000,5.83,178,81,7,0,,441227,5,false,true
+sir-speedy,Sir Speedy,https://sbaacquisitiondata.com/franchise/sir-speedy,9,7198000,350000,150000,710000,8.36,120,54,3,0,,323111,7,true,false
+suburban-studios,Suburban Studios,https://sbaacquisitiondata.com/franchise/suburban-studios,9,29148500,3173000,2805000,3281000,8.5,300,72,1,0,,721110,5,true,false
+wetzels-pretzels,Wetzel's Pretzels,https://sbaacquisitiondata.com/franchise/wetzels-pretzels,9,7892100,733000,327000,1155400,8.45,120,200,1,0,,722515,6,true,false
+piggly-wiggly,Piggly Wiggly,https://sbaacquisitiondata.com/franchise/piggly-wiggly,9,8402100,915000,532000,1225100,5.72,120,411,6,1,,445110,3,true,false
+s-a-s-petroleum,S.A.S. Petroleum,https://sbaacquisitiondata.com/franchise/s-a-s-petroleum,9,16687000,1750000,1080000,2147500,8.11,300,49,1,0,,457110,1,false,true
+van-de-pol-enterprises,Van De Pol Enterprises,https://sbaacquisitiondata.com/franchise/van-de-pol-enterprises,9,25540500,2750000,976000,5000000,7.44,300,47,2,0,,457110,2,false,true
+aussie-pet-mobile,Aussie Pet Mobile,https://sbaacquisitiondata.com/franchise/aussie-pet-mobile,8,6360100,525000,244625,929000,9.06,120,137,1,0,,812910,5,true,false
+biggby-coffee,Biggby Coffee,https://sbaacquisitiondata.com/franchise/biggby-coffee,8,3372900,332000,245075,493625,7.5,120,188,3,0,,722515,3,true,false
+college-hunks-hauling-junk,College Hunks Hauling Junk,https://sbaacquisitiondata.com/franchise/college-hunks-hauling-junk,8,6015700,691000,429250,882375,7.69,120,272,5,2,,484210,8,true,false
+erbert-and-gerberts,Erbert and Gerbert's,https://sbaacquisitiondata.com/franchise/erbert-and-gerberts,8,1980900,201200,51250,320475,7.13,120,273,1,0,,722513,3,false,false
+goosehead-insurance,Goosehead Insurance,https://sbaacquisitiondata.com/franchise/goosehead-insurance,8,5577000,400000,243750,641750,9.63,120,43,,,,524210,7,true,false
+knights-inn,Knights Inn,https://sbaacquisitiondata.com/franchise/knights-inn,8,12574800,1274400,1061500,1708750,6.41,300,66,8,0,,721110,7,true,false
+philly-pretzel-factory,Philly Pretzel Factory,https://sbaacquisitiondata.com/franchise/philly-pretzel-factory,8,1776500,175000,122500,274125,7.81,120,73,5,0,,722515,2,true,false
+postalannex,PostalAnnex+,https://sbaacquisitiondata.com/franchise/postalannex,8,1913800,236100,183250,281300,8.16,120,34,5,0,,561431,3,true,false
+retrofitness,Retrofitness,https://sbaacquisitiondata.com/franchise/retrofitness,8,9344800,1108800,752150,1601500,6.88,120,253,8,0,,713940,3,true,false
+rosatis-pizza,Rosati's Pizza,https://sbaacquisitiondata.com/franchise/rosatis-pizza,8,2952500,283500,200000,415200,6.66,120,96,5,0,,722513,3,true,false
+synergy-homecare,SYNERGY HomeCare,https://sbaacquisitiondata.com/franchise/synergy-homecare,8,6398400,825500,361250,1182500,8.25,120,362,3,0,,621610,8,true,false
+sonic,Sonic,https://sbaacquisitiondata.com/franchise/sonic,8,16964000,1942000,1405500,2577000,6.02,120,461,5,0,,722513,7,true,false
+units,UNITS,https://sbaacquisitiondata.com/franchise/units,8,14897700,1963350,777000,2780750,6.43,180,40,4,0,,531130,6,false,false
+wingate,Wingate,https://sbaacquisitiondata.com/franchise/wingate,8,32293000,4617500,3375000,5000000,7.19,300,132,3,0,,721110,5,true,false
+am-pm-mini-mart-agreement,AM/PM Mini-Mart Agreement,https://sbaacquisitiondata.com/franchise/am-pm-mini-mart-agreement,8,25297500,3332500,2185875,4588500,7.94,300,62,2,0,,457110,1,false,true
+duck-donuts,Duck Donuts,https://sbaacquisitiondata.com/franchise/duck-donuts,8,3175100,408250,349500,448750,8.88,120,164,3,1,,445298,5,true,false
+fastest-labs,Fastest Labs,https://sbaacquisitiondata.com/franchise/fastest-labs,8,1852900,207500,161750,278750,8.24,120,32,3,0,,541380,5,true,false
+dennys,Denny's,https://sbaacquisitiondata.com/franchise/dennys,8,11850500,1693750,914750,1782500,8.16,210,209,3,0,,722511,5,true,false
+tuffy-tire-and-auto-service,Tuffy Tire & Auto Service,https://sbaacquisitiondata.com/franchise/tuffy-tire-and-auto-service,8,6461900,859750,518750,1181250,7.03,120,76,3,0,,811111,5,true,false
+empire-petroleum-partners,Empire Petroleum Partners,https://sbaacquisitiondata.com/franchise/empire-petroleum-partners,8,12718000,1235500,1015750,1879250,5.59,300,28,7,0,,457110,2,false,true
+imos-pizza,Imo's Pizza,https://sbaacquisitiondata.com/franchise/imos-pizza,8,3743100,322400,259775,551600,8.47,120,215,4,0,,722513,2,true,false
+good-neighbor-pharmacy,Good Neighbor Pharmacy,https://sbaacquisitiondata.com/franchise/good-neighbor-pharmacy,8,20547400,2239200,1389000,3691250,7,120,159,5,0,,456110,6,true,false
+nissan-north-america,Nissan North America,https://sbaacquisitiondata.com/franchise/nissan-north-america,8,27706000,3550000,2901500,4368125,7.51,120,472,2,0,,441110,5,false,true
+hampton-inn-and-suites,Hampton Inn & Suites,https://sbaacquisitiondata.com/franchise/hampton-inn-and-suites,8,39900000,5000000,5000000,5000000,7.28,300,139,1,0,,721110,6,true,false
+9round,9Round,https://sbaacquisitiondata.com/franchise/9round,7,1100500,184000,122500,200750,8.08,120,39,7,1,,713940,6,true,false
+altitude-trampoline-park,Altitude Trampoline Park,https://sbaacquisitiondata.com/franchise/altitude-trampoline-park,7,13413100,1823000,1112050,2672500,9.31,120,298,2,0,,713990,6,true,false
+american-family-care,American Family Care,https://sbaacquisitiondata.com/franchise/american-family-care,7,9371500,1310000,912950,1573250,8.07,120,256,1,0,,621493,5,true,false
+bin-there-dump-that,Bin There...Dump That,https://sbaacquisitiondata.com/franchise/bin-there-dump-that,7,5698800,942000,183500,1319750,7.57,120,100,2,0,,562111,5,true,false
+cicis-pizza,Cicis Pizza,https://sbaacquisitiondata.com/franchise/cicis-pizza,7,3221200,413100,315850,507400,6.6,120,304,3,0,,722513,5,true,false
+fleet-feet-sports,Fleet Feet Sports,https://sbaacquisitiondata.com/franchise/fleet-feet-sports,7,3580200,402000,280550,661050,7.78,120,90,5,0,,458210,6,true,false
+hawthorn,Hawthorn,https://sbaacquisitiondata.com/franchise/hawthorn,7,28629000,4400000,3475000,5000000,6.79,300,92,4,0,,721110,4,true,false
+johnnys-pizza,Johnny's Pizza,https://sbaacquisitiondata.com/franchise/johnnys-pizza,7,2701500,372000,355000,395250,8.21,120,104,3,0,,722511,2,true,false
+lawn-doctor,Lawn Doctor,https://sbaacquisitiondata.com/franchise/lawn-doctor,7,4421400,346500,219800,782650,5.82,120,71,3,0,,561730,6,true,false
+magnuson-hotels,Magnuson Hotels,https://sbaacquisitiondata.com/franchise/magnuson-hotels,7,15603800,1636000,765000,3574000,6.32,300,70,5,0,,721110,6,false,false
+nekter-juice-bar,Nekter Juice Bar,https://sbaacquisitiondata.com/franchise/nekter-juice-bar,7,3251400,459000,255000,543000,8.62,120,204,2,0,,722515,4,true,false
+outdoor-lighting-perspectives,Outdoor Lighting Perspectives,https://sbaacquisitiondata.com/franchise/outdoor-lighting-perspectives,7,4778300,625000,529000,705150,8.29,120,47,3,0,,238210,5,true,false
+pizza-ranch,Pizza Ranch,https://sbaacquisitiondata.com/franchise/pizza-ranch,7,7877700,469700,320000,912000,5.98,120,253,5,0,,722511,4,true,false
+re-bath,Re-Bath,https://sbaacquisitiondata.com/franchise/re-bath,7,7782000,675000,300000,1922500,6.91,120,125,4,0,,238990,3,true,false
+real-property-management,Real Property Management,https://sbaacquisitiondata.com/franchise/real-property-management,7,3841600,283000,125000,673500,8.93,120,44,,,,531311,5,true,false
+red-lion-hotels,Red Lion Hotels,https://sbaacquisitiondata.com/franchise/red-lion-hotels,7,12713100,1166000,839100,3101350,7,300,75,5,0,,721110,6,true,false
+rocky-mountain-chocolate-factory,Rocky Mountain Chocolate Factory,https://sbaacquisitiondata.com/franchise/rocky-mountain-chocolate-factory,7,3387300,396300,252100,702500,8.95,120,53,1,0,,445292,5,true,false
+screenmobile,Screenmobile,https://sbaacquisitiondata.com/franchise/screenmobile,7,2846100,190000,137900,532150,7.63,120,57,2,0,,236118,5,true,false
+the-joint-chiropractic,The Joint Chiropractic,https://sbaacquisitiondata.com/franchise/the-joint-chiropractic,7,9208800,579000,377500,1654500,6.75,120,146,2,0,,621310,4,true,false
+the-little-gym,The Little Gym,https://sbaacquisitiondata.com/franchise/the-little-gym,7,3079000,250000,108500,748500,8.75,120,79,2,0,,713940,6,true,false
+the-maids,The Maids,https://sbaacquisitiondata.com/franchise/the-maids,7,5685000,430500,311000,845000,8.97,120,304,3,0,,561720,6,true,false
+woodcraft,Woodcraft,https://sbaacquisitiondata.com/franchise/woodcraft,7,5026700,612500,309100,1154000,7.37,120,80,6,0,,459120,5,true,false
+woof-gang-bakery-and-grooming,Woof Gang Bakery and Grooming,https://sbaacquisitiondata.com/franchise/woof-gang-bakery-and-grooming,7,3448400,325000,255450,777500,8.64,120,95,2,0,,812910,4,true,false
+coldwell-banker-commercial,Coldwell Banker Commercial,https://sbaacquisitiondata.com/franchise/coldwell-banker-commercial,7,4922400,235000,100000,952000,6.96,120,119,6,0,,531210,3,true,false
+barre3,barre3,https://sbaacquisitiondata.com/franchise/barre3,7,1875900,266000,184000,290000,7.32,120,105,5,0,,713940,5,true,false
+stretch-lab,Stretch Lab,https://sbaacquisitiondata.com/franchise/stretch-lab,7,3463000,306000,206000,725000,9.57,120,162,,,,713940,6,true,false
+carpet-one-floor-and-home,Carpet One Floor & Home,https://sbaacquisitiondata.com/franchise/carpet-one-floor-and-home,7,7399700,987000,672600,1492500,8.53,120,45,3,0,,449121,6,false,false
+general-motors,General Motors,https://sbaacquisitiondata.com/franchise/general-motors,7,19488500,2500000,2056750,3255000,5.75,300,112,5,0,,441110,7,true,true
+parent-petroleum,Parent Petroleum,https://sbaacquisitiondata.com/franchise/parent-petroleum,7,15270000,1875000,1485000,2462500,7.5,300,59,2,0,,457110,1,true,true
+aire-serv,Aire Serv,https://sbaacquisitiondata.com/franchise/aire-serv,6,3118100,348050,240275,740750,8.79,120,43,2,0,,238220,4,true,false
+big-frog-custom-t-shirts-and-more,Big Frog Custom T-Shirts & More,https://sbaacquisitiondata.com/franchise/big-frog-custom-t-shirts-and-more,6,2755000,197500,179375,335625,8.33,120,34,2,0,,458110,5,true,false
+brain-balance,Brain Balance,https://sbaacquisitiondata.com/franchise/brain-balance,6,2664000,421000,357000,556250,7.42,120,75,6,1,,611710,5,true,false
+central-bark-doggy-day-care,Central Bark Doggy Day Care,https://sbaacquisitiondata.com/franchise/central-bark-doggy-day-care,6,3055400,272500,203750,585300,6.42,120,68,5,1,,812910,2,true,false
+elements-massage,Elements Massage,https://sbaacquisitiondata.com/franchise/elements-massage,6,1912900,302450,183975,424750,9.54,120,116,2,0,,812199,5,true,false
+fully-promoted,Fully Promoted,https://sbaacquisitiondata.com/franchise/fully-promoted,6,2158200,244000,203125,360250,7.71,120,29,4,1,,541890,6,true,false
+filta-environmental-kitchen-solutions,Filta Environmental Kitchen Solutions,https://sbaacquisitiondata.com/franchise/filta-environmental-kitchen-solutions,6,2941600,222900,148950,320250,7.12,120,32,4,0,,561720,6,true,false
+firstlight-homecare,FirstLight HomeCare,https://sbaacquisitiondata.com/franchise/firstlight-homecare,6,12026000,1512500,225750,3681250,7.25,120,898,1,0,,624120,4,true,false
+glass-doctor,Glass Doctor,https://sbaacquisitiondata.com/franchise/glass-doctor,6,2846700,502000,305000,632250,8.31,120,28,3,1,,811122,5,true,false
+golden-chick,Golden Chick,https://sbaacquisitiondata.com/franchise/golden-chick,6,8837000,1537500,709500,2066250,4.75,300,68,4,0,,722513,1,true,false
+homewatch-caregivers,Homewatch CareGivers,https://sbaacquisitiondata.com/franchise/homewatch-caregivers,6,7859400,924500,660300,1937500,8.25,120,349,,,,621610,4,true,false
+honey-dew-donuts,Honey Dew Donuts,https://sbaacquisitiondata.com/franchise/honey-dew-donuts,6,2222500,382500,294000,454500,5.92,120,97,6,0,,722513,2,false,false
+howard-johnson,Howard Johnson,https://sbaacquisitiondata.com/franchise/howard-johnson,6,18160500,2705000,2416125,3812500,5.71,300,79,5,0,,721110,6,true,false
+liberty-tax-service,Liberty Tax Service,https://sbaacquisitiondata.com/franchise/liberty-tax-service,6,3285300,472750,232500,697475,7.45,120,104,4,0,,541213,5,true,false
+massage-heights,Massage Heights,https://sbaacquisitiondata.com/franchise/massage-heights,6,5432200,917700,821000,1062850,7.22,120,114,3,0,,812199,3,true,false
+mosquito-squad,Mosquito Squad,https://sbaacquisitiondata.com/franchise/mosquito-squad,6,5918700,866500,542250,1233650,8.3,120,102,2,0,,561710,6,true,false
+nothing-bundt-cakes,Nothing Bundt Cakes,https://sbaacquisitiondata.com/franchise/nothing-bundt-cakes,6,8130700,824000,554525,1028750,5.81,120,99,4,0,,311811,6,true,false
+pip-center,PIP Center,https://sbaacquisitiondata.com/franchise/pip-center,6,6032800,379000,147850,1705750,8.08,120,27,,,,323111,4,true,false
+padgett-business-services,Padgett Business Services,https://sbaacquisitiondata.com/franchise/padgett-business-services,6,2699900,412500,365000,591175,7.53,120,54,2,0,,541213,5,false,false
+precision-tune-auto-care,Precision Tune Auto Care,https://sbaacquisitiondata.com/franchise/precision-tune-auto-care,6,3143500,580300,347625,683450,8.83,120,56,2,0,,811111,4,false,false
+puroclean,PuroClean,https://sbaacquisitiondata.com/franchise/puroclean,6,6431300,1160000,547500,1407250,9.21,120,87,1,0,,562910,6,true,false
+ritters-frozen-custard,Ritter's Frozen Custard,https://sbaacquisitiondata.com/franchise/ritters-frozen-custard,6,1043500,121750,101400,154475,6.77,84,110,4,0,,722515,2,true,false
+schlotzskys,Schlotzsky's,https://sbaacquisitiondata.com/franchise/schlotzskys,6,9179000,1122000,468750,2038500,7.67,120,291,2,1,,722513,4,true,false
+scooters-coffee,Scooter's Coffee,https://sbaacquisitiondata.com/franchise/scooters-coffee,6,10307000,1434500,1300000,2425500,9.08,300,123,1,0,,722515,5,true,false
+system4,System4,https://sbaacquisitiondata.com/franchise/system4,6,8236000,1478500,583750,2014750,7.71,120,104,,,,812990,4,true,false
+teamlogic-it,TeamLogic IT,https://sbaacquisitiondata.com/franchise/teamlogic-it,6,4931700,740000,627750,962500,8.03,120,44,1,0,,541519,5,true,false
+the-bar-method,The Bar Method,https://sbaacquisitiondata.com/franchise/the-bar-method,6,4036400,606250,479000,774825,7.37,120,92,4,1,,713940,4,true,false
+the-brass-tap-craft-beer-bar,The Brass Tap Craft Beer Bar,https://sbaacquisitiondata.com/franchise/the-brass-tap-craft-beer-bar,6,4845000,639000,513000,861750,8.79,120,179,2,0,,722511,3,true,false
+the-grounds-guys,The Grounds Guys,https://sbaacquisitiondata.com/franchise/the-grounds-guys,6,3987500,520200,299975,703750,8.04,120,94,2,0,,561730,5,true,false
+togos,Togo's,https://sbaacquisitiondata.com/franchise/togos,6,2380400,286700,240850,393750,7.33,120,69,3,0,,722513,1,true,false
+toppers-pizza,Toppers Pizza,https://sbaacquisitiondata.com/franchise/toppers-pizza,6,4605000,672500,373500,1099750,7.58,120,480,3,0,,722513,2,true,false
+wayback-burgers,Wayback Burgers,https://sbaacquisitiondata.com/franchise/wayback-burgers,6,880000,138000,111750,150000,7.25,107,99,5,3,,722513,2,true,false
+yogurtland,Yogurtland,https://sbaacquisitiondata.com/franchise/yogurtland,6,2058500,209250,185250,241875,7.09,120,55,4,0,,722515,1,true,false
+miracle-method-surface-refinishing,Miracle Method Surface Refinishing,https://sbaacquisitiondata.com/franchise/miracle-method-surface-refinishing,6,2742100,486500,373250,610700,6.52,120,73,5,0,,238990,5,true,false
+soccer-shots,Soccer Shots,https://sbaacquisitiondata.com/franchise/soccer-shots,6,4308000,329000,264500,563750,8.41,120,142,1,0,,611620,5,true,false
+valley-pacific-petroleum-services,Valley Pacific Petroleum Services,https://sbaacquisitiondata.com/franchise/valley-pacific-petroleum-services,6,11377000,1497500,1264000,2347500,6.46,300,48,2,0,,457110,1,true,true
+kampgrounds-of-america,Kampgrounds of America,https://sbaacquisitiondata.com/franchise/kampgrounds-of-america,6,10119500,1665250,1250000,2195625,6,300,32,3,0,,721211,6,false,false
+sun-pacific-energy-inc,Sun Pacific Energy Inc,https://sbaacquisitiondata.com/franchise/sun-pacific-energy-inc,6,18343000,2701500,2590750,2892500,5.62,300,37,5,0,,457110,1,false,true
+honda-powersports-sales-and-service-agreements,Honda Powersports Sales and Service Agreements,https://sbaacquisitiondata.com/franchise/honda-powersports-sales-and-service-agreements,6,5853000,898500,691250,1412500,5.83,120,87,5,0,,441227,5,true,true
+beck-suppliers-inc,Beck Suppliers Inc,https://sbaacquisitiondata.com/franchise/beck-suppliers-inc,6,7194000,890500,668750,1712250,6.58,300,47,4,0,,457110,1,false,true
+wnb-factory,WNB Factory,https://sbaacquisitiondata.com/franchise/wnb-factory,6,3021000,513500,341250,631750,9,120,42,,,,722513,2,true,false
+oyo,OYO,https://sbaacquisitiondata.com/franchise/oyo,6,11111200,2107100,1117050,2565250,7.38,300,78,2,0,,721110,5,false,false
+rhinoshield,RhinoShield,https://sbaacquisitiondata.com/franchise/rhinoshield,6,7109400,1268350,400075,1394575,6.42,120,25,5,0,,238320,2,false,true
+gpm-empire,GPM Empire,https://sbaacquisitiondata.com/franchise/gpm-empire,6,4488100,686050,541750,787525,8.96,190,28,,,,457110,3,true,true
+spark-by-hilton,Spark by Hilton,https://sbaacquisitiondata.com/franchise/spark-by-hilton,6,22944000,3949000,3463000,4117000,8.75,300,95,,,,721110,5,true,false
+1-800-radiator-and-a-c,1-800-Radiator & A/C,https://sbaacquisitiondata.com/franchise/1-800-radiator-and-a-c,5,2672000,550000,350000,750000,7.45,120,31,3,0,,423120,4,true,false
+a-and-w,A&W,https://sbaacquisitiondata.com/franchise/a-and-w,5,5987000,1410000,1027000,1500000,6.85,300,206,3,0,,722513,3,true,false
+amada-senior-care,Amada Senior Care,https://sbaacquisitiondata.com/franchise/amada-senior-care,5,9877600,1825000,1564000,2336000,6.42,120,280,4,0,,621610,3,true,false
+beef-o-bradys,Beef 'O' Brady's,https://sbaacquisitiondata.com/franchise/beef-o-bradys,5,1650900,341000,304000,349200,7,120,145,4,0,,722511,3,true,false
+ben-and-jerrys,Ben & Jerry's,https://sbaacquisitiondata.com/franchise/ben-and-jerrys,5,1875000,411300,337000,416700,6.89,120,60,2,0,,722513,5,true,false
+buffalo-wings-and-rings,Buffalo Wings & Rings,https://sbaacquisitiondata.com/franchise/buffalo-wings-and-rings,5,3696800,749000,350000,825500,8.07,120,150,3,0,,722511,3,false,false
+crdn,CRDN,https://sbaacquisitiondata.com/franchise/crdn,5,6616000,1245000,885000,1585000,6.42,120,111,4,0,,812320,4,true,false
+charleys-philly-steaks,Charleys Philly Steaks,https://sbaacquisitiondata.com/franchise/charleys-philly-steaks,5,3359400,362500,173300,395000,8.73,120,130,,,,722513,4,true,false
+cinnabon,Cinnabon,https://sbaacquisitiondata.com/franchise/cinnabon,5,4785200,699500,695700,1200000,6.7,114,116,3,0,,713940,4,true,false
+courtyard-by-marriott,Courtyard by Marriott,https://sbaacquisitiondata.com/franchise/courtyard-by-marriott,5,17842900,5000000,2492500,5000000,7.05,300,109,,,,721110,3,true,false
+east-of-chicago-pizza,East of Chicago Pizza,https://sbaacquisitiondata.com/franchise/east-of-chicago-pizza,5,1444200,228700,75000,473000,9.2,120,38,1,0,,722513,2,false,false
+enviro-master-services,Enviro-Master Services,https://sbaacquisitiondata.com/franchise/enviro-master-services,5,1819400,350000,300000,391900,7.78,120,78,2,0,,561720,4,true,false
+farrells-extreme-bodyshaping,Farrell's eXtreme Bodyshaping,https://sbaacquisitiondata.com/franchise/farrells-extreme-bodyshaping,5,1181100,150000,147000,254100,6.56,60,83,4,1,,713940,3,false,false
+five-star-painting,Five Star Painting,https://sbaacquisitiondata.com/franchise/five-star-painting,5,1874900,267500,236400,473000,7.75,120,50,2,0,,238320,4,true,false
+foxs-pizza-den,Fox's Pizza Den,https://sbaacquisitiondata.com/franchise/foxs-pizza-den,5,1117500,149700,120000,280000,6.22,120,47,2,0,,722511,4,true,false
+goodcents,Goodcents,https://sbaacquisitiondata.com/franchise/goodcents,5,1195400,213000,207400,230000,5.95,120,50,5,0,,722513,3,true,false
+h-and-r-block,H&R Block,https://sbaacquisitiondata.com/franchise/h-and-r-block,5,2866600,518600,267300,894000,5.7,120,109,3,0,,541213,5,false,false
+hoodz,Hoodz,https://sbaacquisitiondata.com/franchise/hoodz,5,2289300,280000,247000,737000,8.95,120,28,2,0,,561720,4,true,false
+haagen-dazs,Haagen-Dazs,https://sbaacquisitiondata.com/franchise/haagen-dazs,5,1519900,370000,225000,388400,8.01,120,66,4,0,,722515,5,true,false
+hardware-hank,Hardware Hank,https://sbaacquisitiondata.com/franchise/hardware-hank,5,4045900,443500,275600,1330000,6.26,240,48,4,0,,444140,4,false,false
+holiday-inn,Holiday Inn,https://sbaacquisitiondata.com/franchise/holiday-inn,5,25000000,5000000,5000000,5000000,6.5,300,135,3,0,,721110,4,true,false
+honest1-auto-care,Honest1 Auto Care,https://sbaacquisitiondata.com/franchise/honest1-auto-care,5,2353500,442000,311500,700000,7.04,120,22,4,2,,811111,4,true,false
+hungry-howies-pizza,Hungry Howie's Pizza,https://sbaacquisitiondata.com/franchise/hungry-howies-pizza,5,1799900,290000,213700,495000,7.4,120,63,3,0,,722513,5,true,false
+ihop,IHOP,https://sbaacquisitiondata.com/franchise/ihop,5,3917700,712000,608700,995000,6.95,120,102,4,0,,722511,5,true,false
+kona-ice,Kona Ice,https://sbaacquisitiondata.com/franchise/kona-ice,5,2474500,375000,279000,568500,9.5,120,39,,,,722330,4,true,false
+l-and-l-hawaiian-barbeque,L&L HAWAIIAN BARBEQUE,https://sbaacquisitiondata.com/franchise/l-and-l-hawaiian-barbeque,5,1472000,314000,200000,375000,6.5,120,32,5,0,,722513,1,true,false
+mgm-wine-and-spirits,MGM Wine & Spirits,https://sbaacquisitiondata.com/franchise/mgm-wine-and-spirits,5,3413200,558000,447300,611000,6.42,120,46,3,0,,445320,1,true,false
+moes-southwest-grill,Moe's Southwest Grill,https://sbaacquisitiondata.com/franchise/moes-southwest-grill,5,5026300,515000,450500,930800,8.75,120,188,1,0,,722513,4,true,false
+painting-with-a-twist,Painting With A Twist,https://sbaacquisitiondata.com/franchise/painting-with-a-twist,5,926800,164000,135000,212000,10.25,120,23,1,0,,459999,5,true,false
+pak-mail,Pak Mail,https://sbaacquisitiondata.com/franchise/pak-mail,5,1551500,285000,190000,350000,7.4,120,19,4,2,,561431,3,true,false
+pillar-to-post,Pillar To Post,https://sbaacquisitiondata.com/franchise/pillar-to-post,5,1272000,215000,117000,285000,7.9,120,39,4,2,,541350,4,true,false
+salsaritas-fresh-cantina,Salsarita's Fresh Cantina,https://sbaacquisitiondata.com/franchise/salsaritas-fresh-cantina,5,1184000,30000,30000,510000,9.6,120,163,,,,722513,2,true,false
+scottish-inns,Scottish Inns,https://sbaacquisitiondata.com/franchise/scottish-inns,5,5707000,872000,740000,1260000,7.55,300,18,2,0,,721110,4,true,false
+shredder-indoor-ski-and-snowboard-school,Shredder Indoor Ski and Snowboard School,https://sbaacquisitiondata.com/franchise/shredder-indoor-ski-and-snowboard-school,5,1679600,235000,144600,260000,7.75,120,34,4,0,,541430,4,true,false
+slumberland-furniture,Slumberland Furniture,https://sbaacquisitiondata.com/franchise/slumberland-furniture,5,11661700,1510500,466200,4535000,8.4,120,68,1,0,,449110,2,true,false
+tide-cleaners,Tide Cleaners,https://sbaacquisitiondata.com/franchise/tide-cleaners,5,4803300,740000,547000,1325000,8.01,120,65,2,0,,812320,4,true,false
+touching-hearts-at-home,Touching Hearts at Home,https://sbaacquisitiondata.com/franchise/touching-hearts-at-home,5,3304300,455000,432000,695000,8.45,120,218,1,1,,621610,3,true,false
+towneplace-suites,TownePlace Suites,https://sbaacquisitiondata.com/franchise/towneplace-suites,5,24680000,5000000,5000000,5000000,8.45,300,105,,,,721110,4,true,false
+waxing-the-city,Waxing the City,https://sbaacquisitiondata.com/franchise/waxing-the-city,5,3402100,585000,455000,967000,7.85,120,67,1,0,,812199,4,true,false
+wienerschnitzel,Wienerschnitzel,https://sbaacquisitiondata.com/franchise/wienerschnitzel,5,2889900,650000,430000,756000,6.13,120,80,3,1,,722513,2,true,false
+garage-living,Garage Living,https://sbaacquisitiondata.com/franchise/garage-living,5,3553000,833000,670000,1000000,9.24,120,40,,,,541990,3,true,false
+see-the-trainer,See The Trainer,https://sbaacquisitiondata.com/franchise/see-the-trainer,5,8240600,1730000,1326600,1884000,6.58,120,48,3,1,,456199,3,false,false
+dunn-brothers-coffee,Dunn Brothers Coffee,https://sbaacquisitiondata.com/franchise/dunn-brothers-coffee,5,1555000,220000,135000,535000,6.7,84,65,3,1,,722513,1,true,false
+carquest-auto-parts,Carquest Auto Parts,https://sbaacquisitiondata.com/franchise/carquest-auto-parts,5,2005500,360000,324000,486000,5.74,120,37,4,0,,441310,4,false,false
+cpr,CPR,https://sbaacquisitiondata.com/franchise/cpr,5,1192000,239000,225000,297000,7.47,77,24,4,2,,449210,4,true,false
+wavemax-laundry,WaveMAX Laundry,https://sbaacquisitiondata.com/franchise/wavemax-laundry,5,3049000,816000,250000,843000,8.75,120,23,,,,812310,2,true,false
+tire-pros,Tire Pros,https://sbaacquisitiondata.com/franchise/tire-pros,5,2875900,552300,526000,606300,5.8,120,81,3,0,,441340,4,true,false
+iga-usa,IGA USA,https://sbaacquisitiondata.com/franchise/iga-usa,5,3312300,494000,456000,1117300,8.01,262,118,2,0,,445110,3,false,false
+twfg-insurance-services,TWFG Insurance Services,https://sbaacquisitiondata.com/franchise/twfg-insurance-services,5,1671500,270000,208500,335000,7.05,120,27,2,0,,524210,1,true,false
+carepatrol,CarePatrol,https://sbaacquisitiondata.com/franchise/carepatrol,5,3274000,350000,297900,366700,9.18,120,21,,,,624190,4,true,false
+seniors-helping-seniors,Seniors Helping Seniors,https://sbaacquisitiondata.com/franchise/seniors-helping-seniors,5,2108700,494500,189900,500000,8.24,120,381,4,0,,624120,5,true,false
+j-f-presley-oil-company-phillips-66,J.F. Presley Oil Company (Phillips 66),https://sbaacquisitiondata.com/franchise/j-f-presley-oil-company-phillips-66,5,6679000,1196000,880000,1720000,6.85,300,40,3,0,,457110,1,false,true
+perris-pizzeria,Perri's Pizzeria,https://sbaacquisitiondata.com/franchise/perris-pizzeria,5,590000,150000,25000,160000,9.61,120,74,,,,722511,1,false,false
+radiant-waxing,Radiant Waxing,https://sbaacquisitiondata.com/franchise/radiant-waxing,5,6167500,999000,897500,1021000,10.05,120,102,,,,812112,3,true,false
+king-fuels,King Fuels,https://sbaacquisitiondata.com/franchise/king-fuels,5,8314000,1410000,1250000,1489000,5.2,300,17,5,0,,457110,1,false,true

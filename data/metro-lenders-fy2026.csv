@@ -1,0 +1,376 @@
+metro_slug,metro_name,rank,lender_name,display_name,lender_slug,loans,dollars,share_of_metro_loans,acquisition_loans,acquisition_share
+houston,Houston,1,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,101,34615300,0.0987,10,0.099
+houston,Houston,2,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,78,117785600,0.0762,25,0.3205
+houston,Houston,3,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,74,16992000,0.0723,1,0.0135
+houston,Houston,4,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,69,37662300,0.0674,17,0.2464
+houston,Houston,5,Northeast Bank,Northeast Bank,northeast-bank,36,6227300,0.0352,0,0
+houston,Houston,6,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,34,20703500,0.0332,2,0.0588
+houston,Houston,7,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,31,5453000,0.0303,1,0.0323
+houston,Houston,8,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,26,27134600,0.0254,1,0.0385
+houston,Houston,9,Wallis Bank,Wallis Bank,wallis-bank,23,41868900,0.0225,0,0
+houston,Houston,10,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,21,7192200,0.0205,0,0
+houston,Houston,11,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,20,12768900,0.0196,1,0.05
+houston,Houston,12,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,20,11283500,0.0196,0,0
+houston,Houston,13,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,20,3234900,0.0196,0,0
+houston,Houston,14,b1BANK,b1BANK,b1bank,19,26804000,0.0186,1,0.0526
+houston,Houston,15,Texas Capital Bank,Texas Capital Bank,texas-capital-bank,15,19494500,0.0147,1,0.0667
+houston,Houston,16,Frost Bank,Frost Bank,frost-bank,15,8857900,0.0147,0,0
+houston,Houston,17,Bank of Hope,Bank of Hope,bank-of-hope,14,10105000,0.0137,0,0
+houston,Houston,18,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,13,10608300,0.0127,5,0.3846
+houston,Houston,19,US Metro Bank,US Metro Bank,us-metro-bank,12,40619500,0.0117,4,0.3333
+houston,Houston,20,Hancock Whitney Bank,Hancock Whitney Bank,hancock-whitney-bank,12,14352200,0.0117,2,0.1667
+houston,Houston,21,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,11,5580000,0.0108,0,0
+houston,Houston,22,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,11,1702000,0.0108,0,0
+houston,Houston,23,Regions Bank,Regions Bank,regions-bank,10,7678800,0.0098,1,0.1
+houston,Houston,24,"Bank of America, National Association",Bank of America,bank-of-america-national-association,10,5012900,0.0098,1,0.1
+houston,Houston,25,"T Bank, National Association",T Bank,t-bank-national-association,9,13795000,0.0088,6,0.6667
+dallas-fort-worth,Dallas-Fort Worth,1,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,111,58366000,0.0856,29,0.2613
+dallas-fort-worth,Dallas-Fort Worth,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,111,36995000,0.0856,3,0.027
+dallas-fort-worth,Dallas-Fort Worth,3,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,75,79530700,0.0578,21,0.28
+dallas-fort-worth,Dallas-Fort Worth,4,Northeast Bank,Northeast Bank,northeast-bank,52,9584100,0.0401,0,0
+dallas-fort-worth,Dallas-Fort Worth,5,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,39,13467500,0.0301,0,0
+dallas-fort-worth,Dallas-Fort Worth,6,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,36,14505000,0.0278,3,0.0833
+dallas-fort-worth,Dallas-Fort Worth,7,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,33,11347000,0.0254,1,0.0303
+dallas-fort-worth,Dallas-Fort Worth,8,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,32,19817000,0.0247,3,0.0938
+dallas-fort-worth,Dallas-Fort Worth,9,PlainsCapital Bank,PlainsCapital Bank,plainscapital-bank,29,8115100,0.0224,1,0.0345
+dallas-fort-worth,Dallas-Fort Worth,10,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,28,24671100,0.0216,0,0
+dallas-fort-worth,Dallas-Fort Worth,11,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,27,5066000,0.0208,0,0
+dallas-fort-worth,Dallas-Fort Worth,12,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,24,6628000,0.0185,2,0.0833
+dallas-fort-worth,Dallas-Fort Worth,13,Bank of Hope,Bank of Hope,bank-of-hope,22,48040000,0.017,7,0.3182
+dallas-fort-worth,Dallas-Fort Worth,14,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,21,14971400,0.0162,5,0.2381
+dallas-fort-worth,Dallas-Fort Worth,15,Frost Bank,Frost Bank,frost-bank,21,10232400,0.0162,0,0
+dallas-fort-worth,Dallas-Fort Worth,16,Regions Bank,Regions Bank,regions-bank,20,21016400,0.0154,2,0.1
+dallas-fort-worth,Dallas-Fort Worth,17,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,17,16708500,0.0131,1,0.0588
+dallas-fort-worth,Dallas-Fort Worth,18,Hanmi Bank,Hanmi Bank,hanmi-bank,17,12205500,0.0131,8,0.4706
+dallas-fort-worth,Dallas-Fort Worth,19,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,17,7858300,0.0131,3,0.1765
+dallas-fort-worth,Dallas-Fort Worth,20,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,16,17481700,0.0123,0,0
+dallas-fort-worth,Dallas-Fort Worth,21,Open Bank,Open Bank,open-bank,15,30899000,0.0116,12,0.8
+dallas-fort-worth,Dallas-Fort Worth,22,First Internet Bank of Indiana,First Internet Bank,first-internet-bank-of-indiana,15,17085000,0.0116,10,0.6667
+dallas-fort-worth,Dallas-Fort Worth,23,Gulf Coast Bank and Trust Company,Gulf Coast Bank and Trust Company,gulf-coast-bank-and-trust-company,14,19157200,0.0108,0,0
+dallas-fort-worth,Dallas-Fort Worth,24,Security National Bank of Omaha,Security National Bank of Omaha,security-national-bank-of-omaha,14,13843200,0.0108,2,0.1429
+dallas-fort-worth,Dallas-Fort Worth,25,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,13,11185600,0.01,2,0.1538
+austin,Austin,1,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,36,47913000,0.0829,12,0.3333
+austin,Austin,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,32,7726000,0.0737,1,0.0312
+austin,Austin,3,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,27,13663700,0.0622,7,0.2593
+austin,Austin,4,Northeast Bank,Northeast Bank,northeast-bank,17,3447100,0.0392,0,0
+austin,Austin,5,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,15,2505500,0.0346,0,0
+austin,Austin,6,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,14,3865900,0.0323,1,0.0714
+austin,Austin,7,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,14,2640000,0.0323,0,0
+austin,Austin,8,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,12,2337000,0.0276,0,0
+austin,Austin,9,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,11,3011500,0.0253,3,0.2727
+austin,Austin,10,VeraBank National Association,VeraBank,,10,6623800,0.023,1,0.1
+austin,Austin,11,Bankwell Bank,Bankwell Bank,bankwell-bank,9,11288400,0.0207,6,0.6667
+austin,Austin,12,American Bank of Commerce,American Bank of Commerce,,9,5779400,0.0207,1,0.1111
+austin,Austin,13,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,9,4034800,0.0207,1,0.1111
+austin,Austin,14,Capital Certified Development Corporation,Capital Certified Development,,7,2341200,0.0161,0,0
+austin,Austin,15,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,6,7382000,0.0138,1,0.1667
+austin,Austin,16,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,6,5368400,0.0138,0,0
+austin,Austin,17,Frost Bank,Frost Bank,frost-bank,6,2428500,0.0138,0,0
+austin,Austin,18,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,6,2011900,0.0138,0,0
+austin,Austin,19,Security State Bank and Trust,Security State Bank and Trust,,6,1991900,0.0138,0,0
+austin,Austin,20,PeopleFund,PeopleFund,,6,702100,0.0138,0,0
+austin,Austin,21,Citizens Bank,Citizens Bank (TN),citizens-bank,5,7914900,0.0115,1,0.2
+austin,Austin,22,Milestone Bank,Milestone Bank,milestone-bank,5,6683500,0.0115,5,1
+austin,Austin,23,Byline Bank,Byline Bank,byline-bank,5,6260000,0.0115,3,0.6
+austin,Austin,24,Pathward National Association,Pathward,pathward-national-association,5,5175900,0.0115,1,0.2
+austin,Austin,25,R Bank,R Bank,,5,3546100,0.0115,1,0.2
+san-antonio,San Antonio,1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,21,3945000,0.0991,0,0
+san-antonio,San Antonio,2,Northeast Bank,Northeast Bank,northeast-bank,15,1885100,0.0708,0,0
+san-antonio,San Antonio,3,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,13,7740200,0.0613,0,0
+san-antonio,San Antonio,4,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,10,1610200,0.0472,0,0
+san-antonio,San Antonio,5,"LiftFund, Inc.",LiftFund,,10,1461000,0.0472,0,0
+san-antonio,San Antonio,6,PlainsCapital Bank,PlainsCapital Bank,plainscapital-bank,9,2055800,0.0425,2,0.2222
+san-antonio,San Antonio,7,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,8,8012000,0.0377,1,0.125
+san-antonio,San Antonio,8,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,7,10092100,0.033,1,0.1429
+san-antonio,San Antonio,9,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,7,1550000,0.033,0,0
+san-antonio,San Antonio,10,Frost Bank,Frost Bank,frost-bank,6,1142400,0.0283,1,0.1667
+san-antonio,San Antonio,11,Stone Bank,Stone Bank,stone-bank,5,4685000,0.0236,0,0
+san-antonio,San Antonio,12,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,5,3462500,0.0236,0,0
+san-antonio,San Antonio,13,"Bank of America, National Association",Bank of America,bank-of-america-national-association,5,2007700,0.0236,0,0
+san-antonio,San Antonio,14,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,5,956000,0.0236,0,0
+san-antonio,San Antonio,15,Wallis Bank,Wallis Bank,wallis-bank,4,6524800,0.0189,0,0
+san-antonio,San Antonio,16,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,4,630000,0.0189,0,0
+san-antonio,San Antonio,17,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,4,533000,0.0189,0,0
+san-antonio,San Antonio,18,Hancock Whitney Bank,Hancock Whitney Bank,hancock-whitney-bank,3,2995000,0.0142,0,0
+san-antonio,San Antonio,19,Grasshopper Bank National Association,Grasshopper Bank,grasshopper-bank-national-association,3,750000,0.0142,0,0
+san-antonio,San Antonio,20,Beacon Bank and Trust,Beacon Bank and Trust,beacon-bank-and-trust,2,6473000,0.0094,1,0.5
+san-antonio,San Antonio,21,Bankwell Bank,Bankwell Bank,bankwell-bank,2,5600000,0.0094,2,1
+san-antonio,San Antonio,22,Commonwealth Business Bank,Commonwealth Business Bank,commonwealth-business-bank,2,5325000,0.0094,0,0
+san-antonio,San Antonio,23,Texas Capital Bank,Texas Capital Bank,texas-capital-bank,2,3947300,0.0094,0,0
+san-antonio,San Antonio,24,FWBank,FWBank,,2,3772700,0.0094,1,0.5
+san-antonio,San Antonio,25,Gulf Coast Bank and Trust Company,Gulf Coast Bank and Trust Company,gulf-coast-bank-and-trust-company,2,3225300,0.0094,1,0.5
+los-angeles,Los Angeles,1,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,291,82249100,0.1241,5,0.0172
+los-angeles,Los Angeles,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,225,52177000,0.0959,5,0.0222
+los-angeles,Los Angeles,3,Bank of Hope,Bank of Hope,bank-of-hope,149,109390000,0.0635,4,0.0268
+los-angeles,Los Angeles,4,Northeast Bank,Northeast Bank,northeast-bank,122,25458900,0.052,0,0
+los-angeles,Los Angeles,5,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,108,79279000,0.0461,23,0.213
+los-angeles,Los Angeles,6,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,108,24787300,0.0461,2,0.0185
+los-angeles,Los Angeles,7,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,93,24832800,0.0397,1,0.0108
+los-angeles,Los Angeles,8,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,68,33082900,0.029,28,0.4118
+los-angeles,Los Angeles,9,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,66,24987200,0.0281,0,0
+los-angeles,Los Angeles,10,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,66,18057300,0.0281,2,0.0303
+los-angeles,Los Angeles,11,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,58,11499900,0.0247,0,0
+los-angeles,Los Angeles,12,East West Bank,East West Bank,east-west-bank,50,37745700,0.0213,6,0.12
+los-angeles,Los Angeles,13,PCB Bank,PCB Bank,pcb-bank,44,52780600,0.0188,19,0.4318
+los-angeles,Los Angeles,14,Hanmi Bank,Hanmi Bank,hanmi-bank,39,17200000,0.0166,5,0.1282
+los-angeles,Los Angeles,15,US Metro Bank,US Metro Bank,us-metro-bank,38,55792500,0.0162,10,0.2632
+los-angeles,Los Angeles,16,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,38,51174100,0.0162,0,0
+los-angeles,Los Angeles,17,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,38,42687600,0.0162,0,0
+los-angeles,Los Angeles,18,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,38,20833700,0.0162,2,0.0526
+los-angeles,Los Angeles,19,CDC Small Business Finance Corp.,CDC Small Business Finance Corp.,cdc-small-business-finance-corp,37,6076000,0.0158,2,0.0541
+los-angeles,Los Angeles,20,Open Bank,Open Bank,open-bank,28,42832000,0.0119,8,0.2857
+los-angeles,Los Angeles,21,"Bank of America, National Association",Bank of America,bank-of-america-national-association,28,19842000,0.0119,3,0.1071
+los-angeles,Los Angeles,22,"AMPAC Tri-State CDC, Inc.",AMPAC Tri-State CDC,,27,4176900,0.0115,1,0.037
+los-angeles,Los Angeles,23,Columbia Bank,Columbia Bank,columbia-bank,26,1300000,0.0111,0,0
+los-angeles,Los Angeles,24,Port 51 Lending LLC,Port 51 Lending,port-51-lending-llc,25,46621600,0.0107,8,0.32
+los-angeles,Los Angeles,25,Byline Bank,Byline Bank,byline-bank,22,36494000,0.0094,8,0.3636
+san-diego,San Diego,1,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,81,31123200,0.15,0,0
+san-diego,San Diego,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,70,18696000,0.1296,1,0.0143
+san-diego,San Diego,3,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,39,15611400,0.0722,5,0.1282
+san-diego,San Diego,4,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,35,36677100,0.0648,7,0.2
+san-diego,San Diego,5,Northeast Bank,Northeast Bank,northeast-bank,22,4569200,0.0407,0,0
+san-diego,San Diego,6,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,19,3543000,0.0352,0,0
+san-diego,San Diego,7,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,19,3404800,0.0352,0,0
+san-diego,San Diego,8,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,17,3864000,0.0315,4,0.2353
+san-diego,San Diego,9,"AMPAC Tri-State CDC, Inc.",AMPAC Tri-State CDC,,16,2956000,0.0296,0,0
+san-diego,San Diego,10,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,13,3906500,0.0241,1,0.0769
+san-diego,San Diego,11,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,13,2755000,0.0241,0,0
+san-diego,San Diego,12,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,9,8377800,0.0167,0,0
+san-diego,San Diego,13,"Bank of America, National Association",Bank of America,bank-of-america-national-association,9,2809100,0.0167,2,0.2222
+san-diego,San Diego,14,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,9,1175000,0.0167,0,0
+san-diego,San Diego,15,Byline Bank,Byline Bank,byline-bank,8,11025000,0.0148,5,0.625
+san-diego,San Diego,16,CalPrivate Bank,CalPrivate Bank,,8,7591400,0.0148,1,0.125
+san-diego,San Diego,17,Western Alliance Bank,Western Alliance Bank,western-alliance-bank,7,10752400,0.013,1,0.1429
+san-diego,San Diego,18,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,7,3611100,0.013,1,0.1429
+san-diego,San Diego,19,Banner Bank,Banner Bank,banner-bank,7,1630900,0.013,1,0.1429
+san-diego,San Diego,20,CDC Small Business Finance Corp.,CDC Small Business Finance Corp.,cdc-small-business-finance-corp,7,782200,0.013,0,0
+san-diego,San Diego,21,First-Citizens Bank & Trust Company,First-Citizens Bank & Trust Company,first-citizens-bank-and-trust-company,6,14408000,0.0111,1,0.1667
+san-diego,San Diego,22,GBC International Bank,GBC International Bank,gbc-international-bank,6,13137200,0.0111,0,0
+san-diego,San Diego,23,Bank of Hope,Bank of Hope,bank-of-hope,6,9050200,0.0111,0,0
+san-diego,San Diego,24,US Metro Bank,US Metro Bank,us-metro-bank,5,9909000,0.0093,2,0.4
+san-diego,San Diego,25,The Bancorp Bank National Association,The Bancorp Bank,the-bancorp-bank-national-association,5,8629700,0.0093,2,0.4
+san-francisco-bay-area,San Francisco Bay Area,1,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,106,43628100,0.1411,3,0.0283
+san-francisco-bay-area,San Francisco Bay Area,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,68,15768500,0.0905,0,0
+san-francisco-bay-area,San Francisco Bay Area,3,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,44,50319500,0.0586,15,0.3409
+san-francisco-bay-area,San Francisco Bay Area,4,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,44,10879400,0.0586,4,0.0909
+san-francisco-bay-area,San Francisco Bay Area,5,Northeast Bank,Northeast Bank,northeast-bank,34,6876300,0.0453,0,0
+san-francisco-bay-area,San Francisco Bay Area,6,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,33,15961800,0.0439,12,0.3636
+san-francisco-bay-area,San Francisco Bay Area,7,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,25,5426100,0.0333,1,0.04
+san-francisco-bay-area,San Francisco Bay Area,8,Bank of Hope,Bank of Hope,bank-of-hope,24,22302700,0.032,2,0.0833
+san-francisco-bay-area,San Francisco Bay Area,9,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,24,8807600,0.032,1,0.0417
+san-francisco-bay-area,San Francisco Bay Area,10,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,24,4856000,0.032,0,0
+san-francisco-bay-area,San Francisco Bay Area,11,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,22,26419100,0.0293,0,0
+san-francisco-bay-area,San Francisco Bay Area,12,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,22,6703800,0.0293,1,0.0455
+san-francisco-bay-area,San Francisco Bay Area,13,Fremont Bank,Fremont Bank,,17,17574000,0.0226,3,0.1765
+san-francisco-bay-area,San Francisco Bay Area,14,City National Bank,City National Bank,city-national-bank,12,6652200,0.016,1,0.0833
+san-francisco-bay-area,San Francisco Bay Area,15,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,11,4560000,0.0146,1,0.0909
+san-francisco-bay-area,San Francisco Bay Area,16,"Bank of America, National Association",Bank of America,bank-of-america-national-association,11,4406100,0.0146,1,0.0909
+san-francisco-bay-area,San Francisco Bay Area,17,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,11,3053900,0.0146,2,0.1818
+san-francisco-bay-area,San Francisco Bay Area,18,Columbia Bank,Columbia Bank,columbia-bank,11,510000,0.0146,0,0
+san-francisco-bay-area,San Francisco Bay Area,19,CDC Small Business Finance Corp.,CDC Small Business Finance Corp.,cdc-small-business-finance-corp,10,1625000,0.0133,0,0
+san-francisco-bay-area,San Francisco Bay Area,20,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,9,8349900,0.012,0,0
+san-francisco-bay-area,San Francisco Bay Area,21,US Metro Bank,US Metro Bank,us-metro-bank,8,18334000,0.0107,2,0.25
+san-francisco-bay-area,San Francisco Bay Area,22,East West Bank,East West Bank,east-west-bank,8,5773300,0.0107,1,0.125
+san-francisco-bay-area,San Francisco Bay Area,23,The Mortgage Capital Development Corporation,The Mortgage Capital Development,,8,1445600,0.0107,1,0.125
+san-francisco-bay-area,San Francisco Bay Area,24,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,7,6598000,0.0093,0,0
+san-francisco-bay-area,San Francisco Bay Area,25,Open Bank,Open Bank,open-bank,7,4741000,0.0093,5,0.7143
+phoenix,Phoenix,1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,71,17963000,0.0965,5,0.0704
+phoenix,Phoenix,2,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,57,19263100,0.0774,0,0
+phoenix,Phoenix,3,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,53,25176300,0.072,5,0.0943
+phoenix,Phoenix,4,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,46,69740500,0.0625,13,0.2826
+phoenix,Phoenix,5,Northeast Bank,Northeast Bank,northeast-bank,31,5635400,0.0421,0,0
+phoenix,Phoenix,6,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,30,9828200,0.0408,2,0.0667
+phoenix,Phoenix,7,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,22,5553000,0.0299,1,0.0455
+phoenix,Phoenix,8,Bell Bank,Bell Bank,bell-bank,20,17540000,0.0272,2,0.1
+phoenix,Phoenix,9,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,18,13192500,0.0245,0,0
+phoenix,Phoenix,10,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,18,9532800,0.0245,4,0.2222
+phoenix,Phoenix,11,Desert Financial Credit Union,Desert Financial Credit Union,,18,7490900,0.0245,0,0
+phoenix,Phoenix,12,MidFirst Bank,MidFirst Bank,midfirst-bank,16,25061700,0.0217,0,0
+phoenix,Phoenix,13,Western Alliance Bank,Western Alliance Bank,western-alliance-bank,15,16540900,0.0204,3,0.2
+phoenix,Phoenix,14,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,14,3854000,0.019,0,0
+phoenix,Phoenix,15,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,14,2180700,0.019,0,0
+phoenix,Phoenix,16,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,13,13667000,0.0177,0,0
+phoenix,Phoenix,17,America First Federal Credit Union,America First Federal Credit Union,america-first-federal-credit-union,12,18559200,0.0163,1,0.0833
+phoenix,Phoenix,18,The Bancorp Bank National Association,The Bancorp Bank,the-bancorp-bank-national-association,12,12965900,0.0163,5,0.4167
+phoenix,Phoenix,19,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,11,10500000,0.0149,0,0
+phoenix,Phoenix,20,Midwest Regional Bank,Midwest Regional Bank,midwest-regional-bank,11,9078000,0.0149,8,0.7273
+phoenix,Phoenix,21,Arizona Capital Source,Arizona Capital Source,,11,2636800,0.0149,0,0
+phoenix,Phoenix,22,Integro Bank,Integro Bank,,10,9407600,0.0136,4,0.4
+phoenix,Phoenix,23,Arizona Financial Credit Union,Arizona Financial Credit Union,arizona-financial-credit-union,10,6170800,0.0136,3,0.3
+phoenix,Phoenix,24,WaFd Bank,WaFd Bank,,8,469000,0.0109,0,0
+phoenix,Phoenix,25,Mountain America FCU,Mountain America FCU,mountain-america-fcu,7,2702000,0.0095,0,0
+chicago,Chicago,1,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,199,57111400,0.1746,28,0.1407
+chicago,Chicago,2,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,124,29392200,0.1088,2,0.0161
+chicago,Chicago,3,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,70,16977500,0.0614,3,0.0429
+chicago,Chicago,4,Byline Bank,Byline Bank,byline-bank,65,93836000,0.057,25,0.3846
+chicago,Chicago,5,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,42,47320000,0.0368,15,0.3571
+chicago,Chicago,6,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,39,18679000,0.0342,1,0.0256
+chicago,Chicago,7,Northeast Bank,Northeast Bank,northeast-bank,38,6254100,0.0333,0,0
+chicago,Chicago,8,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,36,11054400,0.0316,1,0.0278
+chicago,Chicago,9,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,30,2768500,0.0263,0,0
+chicago,Chicago,10,"Village Bank and Trust, National Association",Village Bank and Trust,village-bank-and-trust-national-association,25,17632500,0.0219,3,0.12
+chicago,Chicago,11,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,23,4614800,0.0202,0,0
+chicago,Chicago,12,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,22,3146100,0.0193,2,0.0909
+chicago,Chicago,13,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,21,20297700,0.0184,0,0
+chicago,Chicago,14,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,19,4756700,0.0167,2,0.1053
+chicago,Chicago,15,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,16,5572000,0.014,2,0.125
+chicago,Chicago,16,"Hinsdale Bank & Trust Company, National Association",Hinsdale Bank & Trust Company,,15,12942700,0.0132,5,0.3333
+chicago,Chicago,17,Old National Bank,Old National Bank,old-national-bank,14,27244100,0.0123,2,0.1429
+chicago,Chicago,18,"St. Charles Bank & Trust Company, National Association",St. Charles Bank & Trust Company,,13,13266100,0.0114,2,0.1538
+chicago,Chicago,19,"Wheaton Bank & Trust Company, National Association",Wheaton Bank & Trust Company,,12,4867000,0.0105,1,0.0833
+chicago,Chicago,20,"PNC Bank, National Association",PNC Bank,pnc-bank-national-association,12,3594700,0.0105,1,0.0833
+chicago,Chicago,21,First American Bank,First American Bank,,11,8588200,0.0096,3,0.2727
+chicago,Chicago,22,"Bank of America, National Association",Bank of America,bank-of-america-national-association,11,7710300,0.0096,0,0
+chicago,Chicago,23,"Schaumburg Bank & Trust Company, National Association",Schaumburg Bank & Trust Company,,10,8294000,0.0088,2,0.2
+chicago,Chicago,24,"Barrington Bank & Trust Company, National Association",Barrington Bank & Trust Company,,10,2961000,0.0088,0,0
+chicago,Chicago,25,Bank of Hope,Bank of Hope,bank-of-hope,10,2790000,0.0088,0,0
+atlanta,Atlanta,1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,95,30824000,0.1477,0,0
+atlanta,Atlanta,2,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,39,34968000,0.0607,10,0.2564
+atlanta,Atlanta,3,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,25,16456200,0.0389,10,0.4
+atlanta,Atlanta,4,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,22,4098500,0.0342,0,0
+atlanta,Atlanta,5,Metro City Bank,Metro City Bank,metro-city-bank,20,39848000,0.0311,4,0.2
+atlanta,Atlanta,6,Northeast Bank,Northeast Bank,northeast-bank,20,3649200,0.0311,0,0
+atlanta,Atlanta,7,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,19,3255000,0.0295,0,0
+atlanta,Atlanta,8,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,18,6900700,0.028,1,0.0556
+atlanta,Atlanta,9,Hanmi Bank,Hanmi Bank,hanmi-bank,17,13116500,0.0264,6,0.3529
+atlanta,Atlanta,10,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,17,5773000,0.0264,1,0.0588
+atlanta,Atlanta,11,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,17,2839200,0.0264,0,0
+atlanta,Atlanta,12,PromiseOne Bank,PromiseOne Bank,promiseone-bank,13,13105000,0.0202,4,0.3077
+atlanta,Atlanta,13,Bank of Hope,Bank of Hope,bank-of-hope,12,14547000,0.0187,0,0
+atlanta,Atlanta,14,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,12,11052100,0.0187,0,0
+atlanta,Atlanta,15,United Community Bank,United Community Bank,united-community-bank,11,16390000,0.0171,2,0.1818
+atlanta,Atlanta,16,PCB Bank,PCB Bank,pcb-bank,11,10473000,0.0171,6,0.5455
+atlanta,Atlanta,17,Pinnacle Bank,Pinnacle Bank,pinnacle-bank,10,9364000,0.0156,0,0
+atlanta,Atlanta,18,Citizens Bank,Citizens Bank (TN),citizens-bank,10,6670000,0.0156,1,0.1
+atlanta,Atlanta,19,First Community Bank,First Community Bank,first-community-bank,9,8994700,0.014,0,0
+atlanta,Atlanta,20,"T Bank, National Association",T Bank,t-bank-national-association,8,18967800,0.0124,2,0.25
+atlanta,Atlanta,21,Climate First Bank,Climate First Bank,climate-first-bank,8,4550800,0.0124,0,0
+atlanta,Atlanta,22,Loyal Trust Bank,Loyal Trust Bank,,7,7630600,0.0109,0,0
+atlanta,Atlanta,23,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,7,6465000,0.0109,0,0
+atlanta,Atlanta,24,"SouthState Bank, National Association",SouthState Bank,southstate-bank-national-association,7,4113000,0.0109,2,0.2857
+atlanta,Atlanta,25,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,7,2052900,0.0109,0,0
+miami,Miami,1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,207,64488400,0.1511,3,0.0145
+miami,Miami,2,"TD Bank, National Association",TD Bank,td-bank-national-association,180,29600800,0.1314,1,0.0056
+miami,Miami,3,Northeast Bank,Northeast Bank,northeast-bank,101,17253800,0.0737,0,0
+miami,Miami,4,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,83,78047000,0.0606,20,0.241
+miami,Miami,5,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,78,20270600,0.0569,4,0.0513
+miami,Miami,6,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,52,11761100,0.038,1,0.0192
+miami,Miami,7,"Bank of America, National Association",Bank of America,bank-of-america-national-association,51,25929000,0.0372,1,0.0196
+miami,Miami,8,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,45,8428000,0.0328,0,0
+miami,Miami,9,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,37,22431400,0.027,18,0.4865
+miami,Miami,10,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,36,5873300,0.0263,0,0
+miami,Miami,11,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,27,6578200,0.0197,1,0.037
+miami,Miami,12,Paradise Bank,Paradise Bank,paradise-bank,23,34699900,0.0168,2,0.087
+miami,Miami,13,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,22,12144100,0.0161,6,0.2727
+miami,Miami,14,First Internet Bank of Indiana,First Internet Bank,first-internet-bank-of-indiana,19,25615000,0.0139,10,0.5263
+miami,Miami,15,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,19,12425600,0.0139,1,0.0526
+miami,Miami,16,Stone Bank,Stone Bank,stone-bank,18,3545100,0.0131,0,0
+miami,Miami,17,"BankUnited, National Association",BankUnited,bankunited-national-association,15,17275800,0.0109,1,0.0667
+miami,Miami,18,Beacon Bank and Trust,Beacon Bank and Trust,beacon-bank-and-trust,12,19204000,0.0088,9,0.75
+miami,Miami,19,First-Citizens Bank & Trust Company,First-Citizens Bank & Trust Company,first-citizens-bank-and-trust-company,12,9282600,0.0088,3,0.25
+miami,Miami,20,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,12,4469000,0.0088,1,0.0833
+miami,Miami,21,The Fidelity Bank,The Fidelity Bank,the-fidelity-bank,11,9824600,0.008,10,0.9091
+miami,Miami,22,Grasshopper Bank National Association,Grasshopper Bank,grasshopper-bank-national-association,11,6660000,0.008,1,0.0909
+miami,Miami,23,Pathward National Association,Pathward,pathward-national-association,10,20768900,0.0073,5,0.5
+miami,Miami,24,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,10,5427500,0.0073,0,0
+miami,Miami,25,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,10,4548600,0.0073,1,0.1
+tampa,Tampa,1,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,70,18512000,0.1264,2,0.0286
+tampa,Tampa,2,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,35,23530100,0.0632,10,0.2857
+tampa,Tampa,3,"TD Bank, National Association",TD Bank,td-bank-national-association,33,12362500,0.0596,1,0.0303
+tampa,Tampa,4,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,31,8296000,0.056,2,0.0645
+tampa,Tampa,5,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,29,14536000,0.0523,3,0.1034
+tampa,Tampa,6,Northeast Bank,Northeast Bank,northeast-bank,24,4265100,0.0433,0,0
+tampa,Tampa,7,The Bank of Tampa,The Bank of Tampa,,16,10760000,0.0289,0,0
+tampa,Tampa,8,First Internet Bank of Indiana,First Internet Bank,first-internet-bank-of-indiana,14,17419000,0.0253,9,0.6429
+tampa,Tampa,9,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,13,1972000,0.0235,0,0
+tampa,Tampa,10,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,12,5224200,0.0217,2,0.1667
+tampa,Tampa,11,Climate First Bank,Climate First Bank,climate-first-bank,11,8110500,0.0199,0,0
+tampa,Tampa,12,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,11,2443000,0.0199,0,0
+tampa,Tampa,13,"Bank of America, National Association",Bank of America,bank-of-america-national-association,10,4949900,0.0181,0,0
+tampa,Tampa,14,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,10,1498000,0.0181,0,0
+tampa,Tampa,15,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,9,7259700,0.0162,0,0
+tampa,Tampa,16,Hancock Whitney Bank,Hancock Whitney Bank,hancock-whitney-bank,9,4875400,0.0162,2,0.2222
+tampa,Tampa,17,Stone Bank,Stone Bank,stone-bank,9,1350000,0.0162,0,0
+tampa,Tampa,18,DFCU Financial,DFCU Financial,dfcu-financial,8,4633200,0.0144,1,0.125
+tampa,Tampa,19,Sunshine State Economic Development Corporation,Sunshine State Economic Development,,7,1118500,0.0126,0,0
+tampa,Tampa,20,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,7,950000,0.0126,0,0
+tampa,Tampa,21,"BankUnited, National Association",BankUnited,bankunited-national-association,6,7434900,0.0108,2,0.3333
+tampa,Tampa,22,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,6,5898600,0.0108,1,0.1667
+tampa,Tampa,23,Valley National Bank,Valley National Bank,valley-national-bank,6,4578000,0.0108,1,0.1667
+tampa,Tampa,24,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,6,4223000,0.0108,2,0.3333
+tampa,Tampa,25,Waterfall Bank,Waterfall Bank,,5,8020200,0.009,4,0.8
+denver,Denver,1,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,87,26576700,0.1293,2,0.023
+denver,Denver,2,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,57,21955800,0.0847,19,0.3333
+denver,Denver,3,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,50,43407500,0.0743,9,0.18
+denver,Denver,4,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,44,10206500,0.0654,1,0.0227
+denver,Denver,5,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,35,14869100,0.052,7,0.2
+denver,Denver,6,KeyBank National Association,KeyBank,keybank-national-association,33,19791100,0.049,2,0.0606
+denver,Denver,7,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,27,5651000,0.0401,0,0
+denver,Denver,8,Hanmi Bank,Hanmi Bank,hanmi-bank,19,16415000,0.0282,18,0.9474
+denver,Denver,9,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,19,7009000,0.0282,0,0
+denver,Denver,10,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,18,6107000,0.0267,2,0.1111
+denver,Denver,11,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,16,6684300,0.0238,2,0.125
+denver,Denver,12,Northeast Bank,Northeast Bank,northeast-bank,16,3623700,0.0238,0,0
+denver,Denver,13,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,14,4463000,0.0208,0,0
+denver,Denver,14,Bank of Hope,Bank of Hope,bank-of-hope,12,9372000,0.0178,0,0
+denver,Denver,15,Fortis Bank,Fortis Bank,,9,11647000,0.0134,3,0.3333
+denver,Denver,16,Enterprise Bank & Trust,Enterprise Bank & Trust,enterprise-bank-and-trust,9,9438500,0.0134,1,0.1111
+denver,Denver,17,Colorado Enterprise Fund,Colorado Enterprise Fund,,9,1484400,0.0134,0,0
+denver,Denver,18,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,8,9371600,0.0119,0,0
+denver,Denver,19,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,8,8352500,0.0119,5,0.625
+denver,Denver,20,"SouthState Bank, National Association",SouthState Bank,southstate-bank-national-association,7,3571000,0.0104,1,0.1429
+denver,Denver,21,"Community Banks of Colorado, A Division of NBH Bank","Community Banks of Colorado, A Division of NBH Bank",community-banks-of-colorado-a-division-of-nbh-bank,6,2680000,0.0089,2,0.3333
+denver,Denver,22,Grasshopper Bank National Association,Grasshopper Bank,grasshopper-bank-national-association,6,1805000,0.0089,0,0
+denver,Denver,23,Byline Bank,Byline Bank,byline-bank,5,6351000,0.0074,4,0.8
+denver,Denver,24,Fifth Third Bank,Fifth Third Bank,fifth-third-bank,5,6191800,0.0074,1,0.2
+denver,Denver,25,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,5,5931100,0.0074,0,0
+las-vegas,Las Vegas,1,"Zions Bancorporation, National Association",Zions Bancorporation,zions-bancorporation-national-association,81,26401800,0.2051,3,0.037
+las-vegas,Las Vegas,2,"U.S. Bank, National Association",U.S. Bank,u-s-bank-national-association,65,11930900,0.1646,1,0.0154
+las-vegas,Las Vegas,3,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,35,8478000,0.0886,0,0
+las-vegas,Las Vegas,4,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,21,12551000,0.0532,6,0.2857
+las-vegas,Las Vegas,5,America First Federal Credit Union,America First Federal Credit Union,america-first-federal-credit-union,17,22449000,0.043,1,0.0588
+las-vegas,Las Vegas,6,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,11,6842500,0.0278,1,0.0909
+las-vegas,Las Vegas,7,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,11,4829600,0.0278,1,0.0909
+las-vegas,Las Vegas,8,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,10,4199700,0.0253,1,0.1
+las-vegas,Las Vegas,9,Enterprise Bank & Trust,Enterprise Bank & Trust,enterprise-bank-and-trust,7,12689100,0.0177,0,0
+las-vegas,Las Vegas,10,Northeast Bank,Northeast Bank,northeast-bank,7,1566500,0.0177,0,0
+las-vegas,Las Vegas,11,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,7,1545000,0.0177,0,0
+las-vegas,Las Vegas,12,City National Bank,City National Bank,city-national-bank,5,7786500,0.0127,1,0.2
+las-vegas,Las Vegas,13,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,5,6360000,0.0127,0,0
+las-vegas,Las Vegas,14,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,5,3749300,0.0127,2,0.4
+las-vegas,Las Vegas,15,Mountain America FCU,Mountain America FCU,mountain-america-fcu,5,3516500,0.0127,0,0
+las-vegas,Las Vegas,16,"VelocitySBA, LLC",VelocitySBA,velocitysba-llc,5,2842000,0.0127,1,0.2
+las-vegas,Las Vegas,17,"CRF Small Business Loan Company, LLC",CRF Small Business Loan Company,crf-small-business-loan-company-llc,5,2294000,0.0127,1,0.2
+las-vegas,Las Vegas,18,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,5,925000,0.0127,0,0
+las-vegas,Las Vegas,19,United Midwest Savings Bank National Association,United Midwest Savings Bank,united-midwest-savings-bank-national-association,5,670000,0.0127,0,0
+las-vegas,Las Vegas,20,"T Bank, National Association",T Bank,t-bank-national-association,4,5936000,0.0101,2,0.5
+las-vegas,Las Vegas,21,Truliant FCU,Truliant FCU,truliant-fcu,4,5594900,0.0101,1,0.25
+las-vegas,Las Vegas,22,"Harvest Small Business Finance, LLC",Harvest Small Business Finance,harvest-small-business-finance-llc,4,2975900,0.0101,0,0
+las-vegas,Las Vegas,23,CDC Small Business Finance Corp.,CDC Small Business Finance Corp.,cdc-small-business-finance-corp,4,700000,0.0101,0,0
+las-vegas,Las Vegas,24,First Internet Bank of Indiana,First Internet Bank,first-internet-bank-of-indiana,3,5828300,0.0076,3,1
+las-vegas,Las Vegas,25,Pathward National Association,Pathward,pathward-national-association,3,3544300,0.0076,1,0.3333
+new-york-city,New York City,1,"TD Bank, National Association",TD Bank,td-bank-national-association,193,27909000,0.193,1,0.0052
+new-york-city,New York City,2,"Newtek Bank, National Association",Newtek Bank,newtek-bank-national-association,104,29026000,0.104,1,0.0096
+new-york-city,New York City,3,Manufacturers and Traders Trust Company,M&T Bank,manufacturers-and-traders-trust-company,78,9885100,0.078,0,0
+new-york-city,New York City,4,"JPMorgan Chase Bank, National Association",Chase,jpmorgan-chase-bank-national-association,72,19097500,0.072,0,0
+new-york-city,New York City,5,Live Oak Banking Company,Live Oak Bank,live-oak-banking-company,45,36110100,0.045,5,0.1111
+new-york-city,New York City,6,Northeast Bank,Northeast Bank,northeast-bank,37,7400300,0.037,0,0
+new-york-city,New York City,7,"Readycap Lending, LLC",Ready Capital,readycap-lending-llc,34,10676700,0.034,1,0.0294
+new-york-city,New York City,8,"CenTrust Bank, A Division of SmartBiz Bank National Association","CenTrust Bank, A Division of SmartBiz Bank",centrust-bank-a-division-of-smartbiz-bank-national-association,30,6139000,0.03,0,0
+new-york-city,New York City,9,"Lendistry SBLC, LLC",Lendistry SBLC,lendistry-sblc-llc,29,6581400,0.029,0,0
+new-york-city,New York City,10,Celtic Bank Corporation,Celtic Bank,celtic-bank-corporation,23,3303100,0.023,0,0
+new-york-city,New York City,11,"Santander Bank, National Association",Santander Bank,santander-bank-national-association,21,7676300,0.021,0,0
+new-york-city,New York City,12,Bank of Hope,Bank of Hope,bank-of-hope,20,21796800,0.02,0,0
+new-york-city,New York City,13,The Huntington National Bank,Huntington Bank,the-huntington-national-bank,19,7243900,0.019,4,0.2105
+new-york-city,New York City,14,FinWise Bank,FinWise Bank,finwise-bank,15,21760000,0.015,2,0.1333
+new-york-city,New York City,15,Commonwealth Business Bank,Commonwealth Business Bank,commonwealth-business-bank,15,20154000,0.015,0,0
+new-york-city,New York City,16,KeyBank National Association,KeyBank,keybank-national-association,14,6021800,0.014,0,0
+new-york-city,New York City,17,"Bank of America, National Association",Bank of America,bank-of-america-national-association,12,14910500,0.012,1,0.0833
+new-york-city,New York City,18,First Bank of the Lake,First Bank of the Lake,first-bank-of-the-lake,11,8646100,0.011,0,0
+new-york-city,New York City,19,Woori America Bank,Woori America Bank,woori-america-bank,10,6117000,0.01,2,0.2
+new-york-city,New York City,20,Accompany Capital,Accompany Capital,,9,2590600,0.009,0,0
+new-york-city,New York City,21,Pathward National Association,Pathward,pathward-national-association,8,15077400,0.008,4,0.5
+new-york-city,New York City,22,Wells Fargo Bank National Association,Wells Fargo,wells-fargo-bank-national-association,8,10932400,0.008,0,0
+new-york-city,New York City,23,Brooklyn Cooperative Federal Credit Union,Brooklyn Cooperative Federal Credit Union,,8,940000,0.008,0,0
+new-york-city,New York City,24,"OceanFirst Bank, National Association",OceanFirst Bank,,7,8776000,0.007,0,0
+new-york-city,New York City,25,Hanmi Bank,Hanmi Bank,hanmi-bank,7,4887000,0.007,2,0.2857

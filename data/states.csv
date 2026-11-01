@@ -1,0 +1,55 @@
+code,slug,name,url,rank_by_loans,share_of_national,acquisition_loans,total_dollars,median_loan,p25_loan,p75_loan,avg_interest_rate,median_term_months,jobs_supported,seasoned_loans,seasoned_charged_off,charge_off_rate
+AL,al,Alabama,https://sbaacquisitiondata.com/state/al,28,0.0097,476,567748300,787850,331750,1569250,7.88,120,6648,173,6,0.0347
+AK,ak,Alaska,https://sbaacquisitiondata.com/state/ak,50,0.0016,76,87641400,727250,339250,1433275,7.83,120,1078,30,0,0
+AZ,az,Arizona,https://sbaacquisitiondata.com/state/az,18,0.0224,1095,1276910200,770000,369550,1523600,8.06,120,16702,434,15,0.0346
+AR,ar,Arkansas,https://sbaacquisitiondata.com/state/ar,38,0.0068,334,415273000,847500,324250,1658750,7.27,120,4511,153,7,0.0458
+CA,ca,California,https://sbaacquisitiondata.com/state/ca,1,0.106,5184,5626164800,600000,296225,1395000,7.87,120,64489,2250,93,0.0413
+CO,co,Colorado,https://sbaacquisitiondata.com/state/co,5,0.0382,1870,1977363500,661000,339175,1392050,7.79,120,23546,705,29,0.0411
+CT,ct,Connecticut,https://sbaacquisitiondata.com/state/ct,33,0.0085,416,457460700,625000,249375,1551250,7.86,120,5996,176,3,0.017
+DE,de,Delaware,https://sbaacquisitiondata.com/state/de,44,0.0027,130,134065500,498500,230625,1553075,8.16,120,2002,51,2,0.0392
+DC,dc,District of Columbia,https://sbaacquisitiondata.com/state/dc,49,0.0019,91,86620600,600000,327500,1222500,8.48,120,1229,26,2,0.0769
+FL,fl,Florida,https://sbaacquisitiondata.com/state/fl,3,0.0741,3624,4338197600,751700,350000,1584250,8.14,120,51820,1487,85,0.0572
+GA,ga,Georgia,https://sbaacquisitiondata.com/state/ga,9,0.0363,1774,2440821000,875000,379175,1904700,7.62,120,23440,814,26,0.0319
+HI,hi,Hawaii,https://sbaacquisitiondata.com/state/hi,51,0.0012,58,53493600,548000,250000,1105000,8.37,120,714,22,0,0
+ID,id,Idaho,https://sbaacquisitiondata.com/state/id,31,0.0089,436,420103200,563000,264925,1183875,7.84,120,6083,159,2,0.0126
+IL,il,Illinois,https://sbaacquisitiondata.com/state/il,7,0.0364,1779,2000955800,650000,300000,1551000,7.78,120,27840,719,32,0.0445
+IN,in,Indiana,https://sbaacquisitiondata.com/state/in,15,0.0237,1158,1206667300,521250,225000,1423375,7.45,120,16516,513,16,0.0312
+IA,ia,Iowa,https://sbaacquisitiondata.com/state/ia,29,0.0093,454,329374000,332050,158225,962750,7.18,120,5736,209,8,0.0383
+KS,ks,Kansas,https://sbaacquisitiondata.com/state/ks,26,0.0109,531,473681100,565500,265450,1241000,7.19,120,7428,247,12,0.0486
+KY,ky,Kentucky,https://sbaacquisitiondata.com/state/ky,30,0.0091,445,472116100,500000,250000,1365100,7.57,120,6193,153,3,0.0196
+LA,la,Louisiana,https://sbaacquisitiondata.com/state/la,32,0.0088,430,504695000,782250,297750,1593750,8.05,120,6106,171,11,0.0643
+ME,me,Maine,https://sbaacquisitiondata.com/state/me,40,0.0044,214,127714000,250000,106250,762375,7.03,120,3053,76,0,0
+MD,md,Maryland,https://sbaacquisitiondata.com/state/md,23,0.0139,679,750616000,653000,300000,1514600,8.09,120,12709,260,14,0.0538
+MA,ma,Massachusetts,https://sbaacquisitiondata.com/state/ma,19,0.0197,963,777041200,410000,175000,1041000,7.34,120,14587,409,13,0.0318
+MI,mi,Michigan,https://sbaacquisitiondata.com/state/mi,11,0.0344,1680,1657505700,585000,250000,1304625,7.65,120,23471,736,13,0.0177
+MN,mn,Minnesota,https://sbaacquisitiondata.com/state/mn,8,0.0364,1778,1370290600,450000,185025,977125,7.25,120,25538,803,26,0.0324
+MS,ms,Mississippi,https://sbaacquisitiondata.com/state/ms,35,0.0072,354,348173300,658500,283725,1300000,7.44,120,4099,155,4,0.0258
+MO,mo,Missouri,https://sbaacquisitiondata.com/state/mo,17,0.0225,1098,1050041500,580000,270000,1258750,7.77,120,13797,477,14,0.0294
+MT,mt,Montana,https://sbaacquisitiondata.com/state/mt,39,0.0058,283,235794800,457000,225200,998250,7.51,120,3048,134,2,0.0149
+NE,ne,Nebraska,https://sbaacquisitiondata.com/state/ne,37,0.0069,339,273158700,415000,158100,1080850,7.19,120,4716,142,5,0.0352
+NV,nv,Nevada,https://sbaacquisitiondata.com/state/nv,34,0.0079,388,428987300,699500,323000,1401500,7.93,120,6249,154,3,0.0195
+NH,nh,New Hampshire,https://sbaacquisitiondata.com/state/nh,36,0.007,342,260174100,325000,128250,1012500,7.1,120,4869,129,1,0.0078
+NJ,nj,New Jersey,https://sbaacquisitiondata.com/state/nj,16,0.0231,1130,1314457300,719500,340550,1584000,8.08,120,15447,449,9,0.02
+NM,nm,New Mexico,https://sbaacquisitiondata.com/state/nm,41,0.0042,206,243353900,809750,350000,1569775,7.77,120,3043,82,3,0.0366
+NY,ny,New York,https://sbaacquisitiondata.com/state/ny,13,0.0313,1530,1575311900,577500,220000,1356000,7.83,120,19145,661,18,0.0272
+NC,nc,North Carolina,https://sbaacquisitiondata.com/state/nc,12,0.0322,1575,2063932000,800000,350000,1800000,7.92,120,24794,632,13,0.0206
+ND,nd,North Dakota,https://sbaacquisitiondata.com/state/nd,45,0.0027,130,128800100,436600,147750,1252075,7.25,120,2048,56,0,0
+OH,oh,Ohio,https://sbaacquisitiondata.com/state/oh,6,0.0372,1821,1891003200,549000,225000,1403200,7.96,120,26633,734,14,0.0191
+OK,ok,Oklahoma,https://sbaacquisitiondata.com/state/ok,27,0.0104,510,548154600,672750,250000,1447100,7.31,120,6512,244,9,0.0369
+OR,or,Oregon,https://sbaacquisitiondata.com/state/or,24,0.0134,656,715014100,620100,296850,1402500,7.8,120,8386,293,13,0.0444
+PA,pa,Pennsylvania,https://sbaacquisitiondata.com/state/pa,10,0.0361,1765,1714879600,535000,229000,1282000,7.94,120,25040,729,15,0.0206
+RI,ri,Rhode Island,https://sbaacquisitiondata.com/state/ri,43,0.0029,144,124574200,433750,170250,1008750,7.23,120,1825,65,2,0.0308
+SC,sc,South Carolina,https://sbaacquisitiondata.com/state/sc,22,0.014,683,866872600,755000,350000,1737500,7.9,120,8984,267,12,0.0449
+SD,sd,South Dakota,https://sbaacquisitiondata.com/state/sd,42,0.0034,165,134113600,480000,212000,866000,7.01,120,1943,76,2,0.0263
+TN,tn,Tennessee,https://sbaacquisitiondata.com/state/tn,25,0.0128,624,763384100,807000,350000,1701750,7.9,120,9336,250,7,0.028
+TX,tx,Texas,https://sbaacquisitiondata.com/state/tx,2,0.0834,4080,5488110200,870000,384025,1883250,7.78,120,57198,1733,83,0.0479
+UT,ut,Utah,https://sbaacquisitiondata.com/state/ut,21,0.0145,708,752313800,617950,254850,1435425,7.97,120,10165,269,13,0.0483
+VT,vt,Vermont,https://sbaacquisitiondata.com/state/vt,48,0.002,100,75095300,250000,100000,1070000,7.34,120,876,38,0,0
+VA,va,Virginia,https://sbaacquisitiondata.com/state/va,20,0.0174,849,1079607700,719000,323000,1806000,7.91,120,14795,363,13,0.0358
+WA,wa,Washington,https://sbaacquisitiondata.com/state/wa,4,0.041,2006,2306901700,675000,310000,1571750,7.72,120,22418,861,29,0.0337
+WV,wv,West Virginia,https://sbaacquisitiondata.com/state/wv,46,0.0024,119,151422400,697500,227500,1892700,7.34,120,1341,61,2,0.0328
+WI,wi,Wisconsin,https://sbaacquisitiondata.com/state/wi,14,0.0297,1452,1419750500,562750,260325,1323100,7.17,120,21863,641,17,0.0265
+WY,wy,Wyoming,https://sbaacquisitiondata.com/state/wy,47,0.0021,102,120100900,699150,254625,1615750,7.2,120,1008,42,2,0.0476
+PR,pr,Puerto Rico,https://sbaacquisitiondata.com/state/pr,52,0.0011,54,17728100,182500,82500,305875,8.11,120,562,26,0,0
+GU,gu,Guam,https://sbaacquisitiondata.com/state/gu,54,0,2,1121000,560500,530250,590750,5.5,105,38,2,0,
+VI,vi,U.S. Virgin Islands,https://sbaacquisitiondata.com/state/vi,53,0.0002,12,11223700,1029000,500000,1183250,8.17,120,87,5,0,
